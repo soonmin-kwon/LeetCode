@@ -8,7 +8,9 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[c++](./ProblemSolve/1.cpp)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[c++](./ProblemSolve/2.cpp)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[c++](./ProblemSolve/3.cpp)|Medium|
-|7|[Reverse Integer](https://leetcode.com/problems/two-sum/)|[c++](./ProblemSolve/7.cpp)|Easy|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[c++](./ProblemSolve/5.cpp)|Medium|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[c++](./ProblemSolve/6.cpp)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[c++](./ProblemSolve/7.cpp)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[c++](./ProblemSolve/9.cpp)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[c++](./ProblemSolve/13.cpp)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[c++](./ProblemSolve/14.cpp)|Easy|
