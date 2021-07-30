@@ -11,9 +11,13 @@ LeetCode
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[c++](./ProblemSolve/5.cpp)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[c++](./ProblemSolve/6.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[c++](./ProblemSolve/7.cpp)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[c++](./ProblemSolve/8.cpp)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[c++](./ProblemSolve/9.cpp)|Easy|
+|11|[Container with Most Water](https://leetcode.com/problems/container-with-most-water/)|[c++](./ProblemSolve/11.cpp)|Medium|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[c++](./ProblemSolve/12.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[c++](./ProblemSolve/13.cpp)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[c++](./ProblemSolve/14.cpp)|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[c++](./ProblemSolve/15.cpp)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[c++](./ProblemSolve/16.cpp)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[c++](./ProblemSolve/20.cpp)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[c++](./ProblemSolve/21.cpp)|Easy|
@@ -31,3 +35,7 @@ LeetCode
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[c++](./ProblemSolve/88.cpp)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](./ProblemSolve/94.cpp)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[c++](./ProblemSolve/100.cpp)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[c++](./ProblemSolve/121.cpp)|Easy|
+|121|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[c++](./ProblemSolve/122.cpp)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./ProblemSolve/189.cpp)|Medium|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[c++](./ProblemSolve/344.cpp)|Easy|
