@@ -19,6 +19,7 @@ LeetCode
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[c++](./ProblemSolve/14.cpp)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[c++](./ProblemSolve/15.cpp)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[c++](./ProblemSolve/16.cpp)|Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/remove-nth-node-from-end-of-list/)|[c++](./ProblemSolve/19.cpp)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[c++](./ProblemSolve/20.cpp)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[c++](./ProblemSolve/21.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sroted-array/)|[c++](./ProblemSolve/26.cpp)|Easy|
@@ -26,6 +27,7 @@ LeetCode
 |28|[Implment strStr()](https://leetcode.com/problems/implement-strstr/)|[c++](./ProblemSolve/28.cpp)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[c++](./ProblemSolve/35.cpp)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[c++](./ProblemSolve/36.cpp)|Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[c++](./ProblemSolve/38.cpp)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[c++](./ProblemSolve/42.cpp)|Hard|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[c++](./ProblemSolve/48.cpp)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[c++](./ProblemSolve/53.cpp)|Easy|
@@ -40,9 +42,13 @@ LeetCode
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[c++](./ProblemSolve/100.cpp)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[c++](./ProblemSolve/121.cpp)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[c++](./ProblemSolve/122.cpp)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[c++](./ProblemSolve/125.cpp)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[c++](./ProblemSolve/136.cpp)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./ProblemSolve/189.cpp)|Medium|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[c++](./ProblemSolve/206.cpp)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./ProblemSolve/217.cpp)|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[c++](./ProblemSolve/234.cpp)|Easy|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[c++](./ProblemSolve/237.cpp)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[c++](./ProblemSolve/242.cpp)|Easy|
 |283|[Moves Zeroes](https://leetcode.com/problems/moves-zeroes/)|[c++](./ProblemSolve/283.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[c++](./ProblemSolve/344.cpp)|Easy|
