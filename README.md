@@ -51,14 +51,18 @@ LeetCode
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[c++](./ProblemSolve/125.cpp)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[c++](./ProblemSolve/136.cpp)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[c++](./ProblemSolve/141.cpp)|Easy|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[c++](./ProblemSolve/155.cpp)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./ProblemSolve/189.cpp)|Medium|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[c++](./ProblemSolve/198.cpp)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[c++](./ProblemSolve/206.cpp)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./ProblemSolve/217.cpp)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[c++](./ProblemSolve/234.cpp)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[c++](./ProblemSolve/237.cpp)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[c++](./ProblemSolve/242.cpp)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[c++](./ProblemSolve/278.cpp)|Easy|
 |283|[Moves Zeroes](https://leetcode.com/problems/moves-zeroes/)|[c++](./ProblemSolve/283.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[c++](./ProblemSolve/344.cpp)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[c++](./ProblemSolve/350.cpp)|Easy|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[c++](./ProblemSolve/384.cpp)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[c++](./ProblemSolve/387.cpp)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
