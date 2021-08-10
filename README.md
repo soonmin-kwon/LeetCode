@@ -27,6 +27,7 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sroted-array/)|[c++](./ProblemSolve/26.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[c++](./ProblemSolve/27.cpp)|Easy|
 |28|[Implment strStr()](https://leetcode.com/problems/implement-strstr/)|[c++](./ProblemSolve/28.cpp)|Easy|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[c++](./ProblemSolve/34.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[c++](./ProblemSolve/35.cpp)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[c++](./ProblemSolve/36.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[c++](./ProblemSolve/38.cpp)|Medium|
@@ -43,6 +44,7 @@ LeetCode
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[c++](./ProblemSolve/69.cpp)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[c++](./ProblemSolve/70.cpp)|Easy|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[c++](./ProblemSolve/73.cpp)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[c++](./ProblemSolve/75.cpp)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[c++](./ProblemSolve/78.cpp)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[c++](./ProblemSolve/79.cpp)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[c++](./ProblemSolve/83.cpp)|Easy|
@@ -66,6 +68,7 @@ LeetCode
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[c++](./ProblemSolve/136.cpp)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[c++](./ProblemSolve/141.cpp)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[c++](./ProblemSolve/155.cpp)|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[c++](./ProblemSolve/162.cpp)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./ProblemSolve/189.cpp)|Medium|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[c++](./ProblemSolve/190.cpp)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[c++](./ProblemSolve/191.cpp)|Easy|
@@ -73,6 +76,7 @@ LeetCode
 |200|[Number of Island](https://leetcode.com/problems/number-of-island/)|[c++](./ProblemSolve/200.cpp)|Medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[c++](./ProblemSolve/204.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[c++](./ProblemSolve/206.cpp)|Easy|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./ProblemSolve/215.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./ProblemSolve/217.cpp)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[c++](./ProblemSolve/230.cpp)|Medium|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[c++](./ProblemSolve/234.cpp)|Easy|
@@ -86,10 +90,12 @@ LeetCode
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[c++](./ProblemSolve/326.cpp)|Easy|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[c++](./ProblemSolve/334.cpp)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[c++](./ProblemSolve/344.cpp)|Easy|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[c++](./ProblemSolve/347.cpp)|Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[c++](./ProblemSolve/350.cpp)|Easy|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[c++](./ProblemSolve/384.cpp)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[c++](./ProblemSolve/387.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[c++](./ProblemSolve/412.cpp)|Easy|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)|[c++](./ProblemSolve/415.cpp)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./ProblemSolve/429.cpp)|Easy|
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
