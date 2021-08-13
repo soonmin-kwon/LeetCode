@@ -33,6 +33,7 @@ LeetCode
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[c++](./ProblemSolve/36.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[c++](./ProblemSolve/38.cpp)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[c++](./ProblemSolve/42.cpp)|Hard|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[c++](./ProblemSolve/45.cpp)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[c++](./ProblemSolve/46.cpp)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[c++](./ProblemSolve/48.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[c++](./ProblemSolve/49.cpp)|Medium|
@@ -63,6 +64,8 @@ LeetCode
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[c++](./ProblemSolve/104.cpp)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[c++](./ProblemSolve/105.cpp)|Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[c++](./ProblemSolve/108.cpp)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[c++](./ProblemSolve/111.cpp)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[c++](./ProblemSolve/112.cpp)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[c++](./ProblemSolve/113.cpp)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[c++](./ProblemSolve/116.cpp)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](./ProblemSolve/118.cpp)|Easy|
@@ -110,3 +113,4 @@ LeetCode
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
 |954|[Array of Double Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[c++](./ProblemSolve/954.cpp)|Medium|
+|1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[c++](./ProblemSolve/1584.cpp)|Medium|
