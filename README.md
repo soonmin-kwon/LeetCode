@@ -69,13 +69,20 @@ LeetCode
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[c++](./ProblemSolve/113.cpp)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[c++](./ProblemSolve/116.cpp)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](./ProblemSolve/118.cpp)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[c++](./ProblemSolve/119.cpp)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[c++](./ProblemSolve/121.cpp)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[c++](./ProblemSolve/122.cpp)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[c++](./ProblemSolve/125.cpp)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[c++](./ProblemSolve/136.cpp)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[c++](./ProblemSolve/141.cpp)|Easy|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](./ProblemSolve/144.cpp)|Easy|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](./ProblemSolve/145.cpp)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[c++](./ProblemSolve/155.cpp)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[c++](./ProblemSolve/160.cpp)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[c++](./ProblemSolve/162.cpp)|Medium|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[c++](./ProblemSolve/167.cpp)|Easy|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[c++](./ProblemSolve/168.cpp)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[c++](./ProblemSolve/169.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[c++](./ProblemSolve/171.cpp)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[c++](./ProblemSolve/172.cpp)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./ProblemSolve/189.cpp)|Medium|
@@ -84,10 +91,14 @@ LeetCode
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[c++](./ProblemSolve/198.cpp)|Medium|
 |200|[Number of Island](https://leetcode.com/problems/number-of-island/)|[c++](./ProblemSolve/200.cpp)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[c++](./ProblemSolve/202.cpp)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[c++](./ProblemSolve/203.cpp)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[c++](./ProblemSolve/204.cpp)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[c++](./ProblemSolve/205.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[c++](./ProblemSolve/206.cpp)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./ProblemSolve/215.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./ProblemSolve/217.cpp)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[c++](./ProblemSolve/219.cpp)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[c++](./ProblemSolve/226.cpp)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[c++](./ProblemSolve/230.cpp)|Medium|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[c++](./ProblemSolve/234.cpp)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[c++](./ProblemSolve/237.cpp)|Easy|
