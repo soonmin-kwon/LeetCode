@@ -109,6 +109,7 @@ LeetCode
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[c++](./ProblemSolve/278.cpp)|Easy|
 |283|[Moves Zeroes](https://leetcode.com/problems/moves-zeroes/)|[c++](./ProblemSolve/283.cpp)|Easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[c++](./ProblemSolve/300.cpp)|Medium|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[c++](./ProblemSolve/303.cpp)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[c++](./ProblemSolve/322.cpp)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[c++](./ProblemSolve/326.cpp)|Easy|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[c++](./ProblemSolve/334.cpp)|Medium|
@@ -124,8 +125,11 @@ LeetCode
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp)|Easy|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[c++](./ProblemSolve/762.cpp)|Easy|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
 |954|[Array of Double Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[c++](./ProblemSolve/954.cpp)|Medium|
+|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./ProblemSolve/1431.cpp)|Easy|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[c++](./ProblemSolve/1584.cpp)|Medium|
+|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[c++](./ProblemSolve/1695.cpp)|Medium|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[c++](./ProblemSolve/1805.cpp)|Easy|
 |1837|[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[c++](./ProblemSolve/1837.cpp)|Easy|
