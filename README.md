@@ -75,6 +75,7 @@ LeetCode
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[c++](./ProblemSolve/122.cpp)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[c++](./ProblemSolve/125.cpp)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[c++](./ProblemSolve/136.cpp)|Easy|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[c++](./ProblemSolve/137.cpp)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[c++](./ProblemSolve/141.cpp)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](./ProblemSolve/144.cpp)|Easy|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](./ProblemSolve/145.cpp)|Easy|
@@ -105,6 +106,7 @@ LeetCode
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[c++](./ProblemSolve/237.cpp)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[c++](./ProblemSolve/240.cpp)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[c++](./ProblemSolve/242.cpp)|Easy|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[c++](./ProblemSolve/260.cpp)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[c++](./ProblemSolve/268.cpp)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[c++](./ProblemSolve/278.cpp)|Easy|
 |283|[Moves Zeroes](https://leetcode.com/problems/moves-zeroes/)|[c++](./ProblemSolve/283.cpp)|Easy|
@@ -128,8 +130,10 @@ LeetCode
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
 |954|[Array of Double Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[c++](./ProblemSolve/954.cpp)|Medium|
+|1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[c++](./ProblemSolve/1234.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./ProblemSolve/1431.cpp)|Easy|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[c++](./ProblemSolve/1584.cpp)|Medium|
 |1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[c++](./ProblemSolve/1695.cpp)|Medium|
+|1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)|[c++](./ProblemSolve/1759.cpp)|Medium|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[c++](./ProblemSolve/1805.cpp)|Easy|
 |1837|[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[c++](./ProblemSolve/1837.cpp)|Easy|
