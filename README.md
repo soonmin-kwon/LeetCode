@@ -127,6 +127,8 @@ LeetCode
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[c++](./ProblemSolve/415.cpp)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./ProblemSolve/429.cpp)|Easy|
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
+|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[c++](./ProblemSolve/670.cpp)|Medium|
+|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[c++](./ProblemSolve/692.cpp)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp)|Easy|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[c++](./ProblemSolve/762.cpp)|Easy|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
@@ -134,6 +136,7 @@ LeetCode
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[c++](./ProblemSolve/881.cpp)|Medium|
 |954|[Array of Double Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[c++](./ProblemSolve/954.cpp)|Medium|
 |1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[c++](./ProblemSolve/1234.cpp)|Medium|
+|1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[c++](./ProblemSolve/1339.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./ProblemSolve/1431.cpp)|Easy|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[c++](./ProblemSolve/1584.cpp)|Medium|
 |1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[c++](./ProblemSolve/1695.cpp)|Medium|
