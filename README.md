@@ -131,6 +131,7 @@ LeetCode
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[c++](./ProblemSolve/692.cpp)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp)|Easy|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[c++](./ProblemSolve/713.cpp)|Medium|
+|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[c++](./ProblemSolve/752.cpp)|Medium|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[c++](./ProblemSolve/762.cpp)|Easy|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
@@ -139,9 +140,11 @@ LeetCode
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[c++](./ProblemSolve/881.cpp)|Medium|
 |954|[Array of Double Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[c++](./ProblemSolve/954.cpp)|Medium|
 |1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[c++](./ProblemSolve/1234.cpp)|Medium|
+|1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[c++](./ProblemSolve/1314.cpp)|Medium|
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[c++](./ProblemSolve/1339.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./ProblemSolve/1431.cpp)|Easy|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[c++](./ProblemSolve/1584.cpp)|Medium|
+|1626|[Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)|[c++](./ProblemSolve/1626.cpp)|Medium|
 |1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[c++](./ProblemSolve/1695.cpp)|Medium|
 |1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)|[c++](./ProblemSolve/1759.cpp)|Medium|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[c++](./ProblemSolve/1805.cpp)|Easy|
