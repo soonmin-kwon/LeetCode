@@ -127,10 +127,12 @@ LeetCode
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[c++](./ProblemSolve/415.cpp)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./ProblemSolve/429.cpp)|Easy|
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
+|560|[Subarray Sums Eqauls K](https://leetcode.com/problems/subarray-sums-equals-k/)|[c++](./ProblemSolve/560.cpp)|Medium|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[c++](./ProblemSolve/670.cpp)|Medium|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[c++](./ProblemSolve/692.cpp)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp)|Easy|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[c++](./ProblemSolve/713.cpp)|Medium|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[c++](./ProblemSolve/724.cpp)|Easy|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[c++](./ProblemSolve/752.cpp)|Medium|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[c++](./ProblemSolve/762.cpp)|Easy|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
@@ -139,6 +141,7 @@ LeetCode
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[c++](./ProblemSolve/869.cpp)|Medium|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[c++](./ProblemSolve/881.cpp)|Medium|
 |954|[Array of Double Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[c++](./ProblemSolve/954.cpp)|Medium|
+|974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[c++](./ProblemSolve/974.cpp)|Medium|
 |1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[c++](./ProblemSolve/1234.cpp)|Medium|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[c++](./ProblemSolve/1314.cpp)|Medium|
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[c++](./ProblemSolve/1339.cpp)|Medium|
