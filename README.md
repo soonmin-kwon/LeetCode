@@ -88,6 +88,7 @@ LeetCode
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[c++](./ProblemSolve/169.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[c++](./ProblemSolve/171.cpp)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[c++](./ProblemSolve/172.cpp)|Easy|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/)|[c++](./ProblemSolve/179.cpp)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./ProblemSolve/189.cpp)|Medium|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[c++](./ProblemSolve/190.cpp)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[c++](./ProblemSolve/191.cpp)|Easy|
@@ -128,6 +129,8 @@ LeetCode
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./ProblemSolve/429.cpp)|Easy|
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
 |560|[Subarray Sums Eqauls K](https://leetcode.com/problems/subarray-sums-equals-k/)|[c++](./ProblemSolve/560.cpp)|Medium|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[c++](./ProblemSolve/647.cpp)|Medium|
+|653|[Two Sum IV - Input is BST](https://leetcode.com/problems/two-sum-iv-input-is-bst/)|[c++](./ProblemSolve/653.cpp)|Medium|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[c++](./ProblemSolve/670.cpp)|Medium|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[c++](./ProblemSolve/692.cpp)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp)|Easy|
@@ -150,5 +153,6 @@ LeetCode
 |1626|[Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)|[c++](./ProblemSolve/1626.cpp)|Medium|
 |1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[c++](./ProblemSolve/1695.cpp)|Medium|
 |1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)|[c++](./ProblemSolve/1759.cpp)|Medium|
+|1786|[Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/)|[c++](./ProblemSolve/1786.cpp)|Medium|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[c++](./ProblemSolve/1805.cpp)|Easy|
 |1837|[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[c++](./ProblemSolve/1837.cpp)|Easy|
