@@ -38,6 +38,7 @@ LeetCode
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[c++](./ProblemSolve/48.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[c++](./ProblemSolve/49.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[c++](./ProblemSolve/50.cpp)|Medium|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[c++](./ProblemSolve/51.cpp)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[c++](./ProblemSolve/53.cpp)|Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[c++](./ProblemSolve/55.cpp)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](./ProblemSolve/56.cpp)|Medium|
@@ -131,10 +132,12 @@ LeetCode
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[c++](./ProblemSolve/537.cpp)|Medium|
 |560|[Subarray Sums Eqauls K](https://leetcode.com/problems/subarray-sums-equals-k/)|[c++](./ProblemSolve/560.cpp)|Medium|
+|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[c++](./ProblemSolve/633.cpp)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[c++](./ProblemSolve/647.cpp)|Medium|
 |653|[Two Sum IV - Input is BST](https://leetcode.com/problems/two-sum-iv-input-is-bst/)|[c++](./ProblemSolve/653.cpp)|Medium|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[c++](./ProblemSolve/670.cpp)|Medium|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[c++](./ProblemSolve/692.cpp)|Medium|
+|696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[c++](./ProblemSolve/696.cpp)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp)|Easy|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[c++](./ProblemSolve/713.cpp)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[c++](./ProblemSolve/724.cpp)|Easy|
