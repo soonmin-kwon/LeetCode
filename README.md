@@ -115,8 +115,10 @@ LeetCode
 |283|[Moves Zeroes](https://leetcode.com/problems/moves-zeroes/)|[c++](./ProblemSolve/283.cpp)|Easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[c++](./ProblemSolve/300.cpp)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[c++](./ProblemSolve/303.cpp)|Easy|
+|307|[Range Sum Querny - Mutable](https://leetcode.com/problems/range-sum-query-mutalbe/)|[c++](./ProblemSolve/307.cpp)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[c++](./ProblemSolve/322.cpp)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[c++](./ProblemSolve/326.cpp)|Easy|
+|331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[c++](./ProblemSolve/331.cpp)|Medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[c++](./ProblemSolve/334.cpp)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[c++](./ProblemSolve/344.cpp)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[c++](./ProblemSolve/347.cpp)|Medium|
@@ -131,6 +133,7 @@ LeetCode
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./ProblemSolve/429.cpp)|Easy|
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[c++](./ProblemSolve/537.cpp)|Medium|
+|539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[c++](./ProblemSolve/539.cpp)|Medium|
 |560|[Subarray Sums Eqauls K](https://leetcode.com/problems/subarray-sums-equals-k/)|[c++](./ProblemSolve/560.cpp)|Medium|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[c++](./ProblemSolve/633.cpp)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[c++](./ProblemSolve/647.cpp)|Medium|
