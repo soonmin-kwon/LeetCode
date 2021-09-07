@@ -113,10 +113,12 @@ LeetCode
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[c++](./ProblemSolve/237.cpp)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[c++](./ProblemSolve/240.cpp)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[c++](./ProblemSolve/242.cpp)|Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[c++](./ProblemSolve/257.cpp)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[c++](./ProblemSolve/260.cpp)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[c++](./ProblemSolve/268.cpp)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[c++](./ProblemSolve/278.cpp)|Easy|
 |283|[Moves Zeroes](https://leetcode.com/problems/moves-zeroes/)|[c++](./ProblemSolve/283.cpp)|Easy|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[c++](./ProblemSolve/287.cpp)|Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[c++](./ProblemSolve/289.cpp)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[c++](./ProblemSolve/300.cpp)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[c++](./ProblemSolve/303.cpp)|Easy|
@@ -141,6 +143,7 @@ LeetCode
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[c++](./ProblemSolve/415.cpp)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./ProblemSolve/429.cpp)|Easy|
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
+|476|[Number Complement](https://leetcode.com/problems/number-complement/)|[c++](./ProblemSolve/476.cpp)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[c++](./ProblemSolve/521.cpp)|Easy|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[c++](./ProblemSolve/522.cpp)|Medium|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[c++](./ProblemSolve/537.cpp)|Medium|
@@ -198,5 +201,6 @@ LeetCode
 |1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)|[c++](./ProblemSolve/1759.cpp)|Medium|
 |1786|[Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/)|[c++](./ProblemSolve/1786.cpp)|Medium|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[c++](./ProblemSolve/1805.cpp)|Easy|
+|1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[c++](./ProblemSolve/1822.cpp)|Easy|
 |1837|[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[c++](./ProblemSolve/1837.cpp)|Easy|
 |1859|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[c++](./ProblemSolve/1859.cpp)|Easy|
