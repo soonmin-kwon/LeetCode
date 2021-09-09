@@ -126,6 +126,7 @@ LeetCode
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[c++](./ProblemSolve/318.cpp)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[c++](./ProblemSolve/322.cpp)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[c++](./ProblemSolve/326.cpp)|Easy|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[c++](./ProblemSolve/329.cpp)|Hard|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[c++](./ProblemSolve/331.cpp)|Medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[c++](./ProblemSolve/334.cpp)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[c++](./ProblemSolve/337.cpp)|Medium|
@@ -148,6 +149,7 @@ LeetCode
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[c++](./ProblemSolve/522.cpp)|Medium|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[c++](./ProblemSolve/537.cpp)|Medium|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[c++](./ProblemSolve/539.cpp)|Medium|
+|547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[c++](./ProblemSolve/547.cpp)|Medium|
 |560|[Subarray Sums Eqauls K](https://leetcode.com/problems/subarray-sums-equals-k/)|[c++](./ProblemSolve/560.cpp)|Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[c++](./ProblemSolve/561.cpp)|Easy|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[c++](./ProblemSolve/565.cpp)|Medium|
@@ -167,6 +169,7 @@ LeetCode
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[c++](./ProblemSolve/743.cpp)|Medium|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[c++](./ProblemSolve/752.cpp)|Medium|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[c++](./ProblemSolve/762.cpp)|Easy|
+|764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)|[c++](./ProblemSolve/764.cpp)|Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[c++](./ProblemSolve/830.cpp)|Easy|
