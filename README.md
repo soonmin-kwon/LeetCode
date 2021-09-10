@@ -173,6 +173,7 @@ LeetCode
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[c++](./ProblemSolve/830.cpp)|Easy|
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[c++](./ProblemSolve/841.cpp)|Medium|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[c++](./ProblemSolve/848.cpp)|Medium|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[c++](./ProblemSolve/849.cpp)|Medium|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[c++](./ProblemSolve/869.cpp)|Medium|
@@ -193,11 +194,13 @@ LeetCode
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[c++](./ProblemSolve/1239.cpp)|Medium|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[c++](./ProblemSolve/1299.cpp)|Easy|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[c++](./ProblemSolve/1314.cpp)|Medium|
+|1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[c++](./ProblemSolve/1319.cpp)|Medium|
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[c++](./ProblemSolve/1339.cpp)|Medium|
 |1419|[Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)|[c++](./ProblemSolve/1419.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./ProblemSolve/1431.cpp)|Easy|
 |1456|[Maximum Number of Vowels in a Substrings of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substrings-of-given-length/)|[c++](./ProblemSolve/1456.cpp)|Medium|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[c++](./ProblemSolve/1475.cpp)|Easy|
+|1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[c++](./ProblemSolve/1557.cpp)|Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[c++](./ProblemSolve/1584.cpp)|Medium|
 |1626|[Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)|[c++](./ProblemSolve/1626.cpp)|Medium|
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[c++](./ProblemSolve/1629.cpp)|Easy|
