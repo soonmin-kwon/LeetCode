@@ -200,6 +200,7 @@ LeetCode
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./ProblemSolve/1431.cpp)|Easy|
 |1456|[Maximum Number of Vowels in a Substrings of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substrings-of-given-length/)|[c++](./ProblemSolve/1456.cpp)|Medium|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[c++](./ProblemSolve/1475.cpp)|Easy|
+|1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)|[c++](./ProblemSolve/1475.cpp)|Medium|
 |1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[c++](./ProblemSolve/1557.cpp)|Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[c++](./ProblemSolve/1584.cpp)|Medium|
 |1626|[Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)|[c++](./ProblemSolve/1626.cpp)|Medium|
