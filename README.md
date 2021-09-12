@@ -154,6 +154,7 @@ LeetCode
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[c++](./ProblemSolve/561.cpp)|Easy|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[c++](./ProblemSolve/565.cpp)|Medium|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[c++](./ProblemSolve/589.cpp)|Easy|
+|593|[Valid Square](https://leetcode.com/problems/valid-square/)|[c++](./ProblemSolve/593.cpp)|Medium|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[c++](./ProblemSolve/598.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[c++](./ProblemSolve/633.cpp)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[c++](./ProblemSolve/647.cpp)|Medium|
