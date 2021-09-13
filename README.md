@@ -172,6 +172,7 @@ LeetCode
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[c++](./ProblemSolve/762.cpp)|Easy|
 |764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)|[c++](./ProblemSolve/764.cpp)|Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[c++](./ProblemSolve/807.cpp)|Medium|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[c++](./ProblemSolve/830.cpp)|Easy|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[c++](./ProblemSolve/841.cpp)|Medium|
@@ -188,7 +189,9 @@ LeetCode
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[c++](./ProblemSolve/974.cpp)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[c++](./ProblemSolve/977.cpp)|Easy|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[c++](./ProblemSolve/993.cpp)|Easy|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[c++](./ProblemSolve/1002.cpp)|Easy|
 |1110|[Delete Nodes And Returns Forest](https://leetcode.com/problems/delete-nodes-and-returns-forest/)|[c++](./ProblemSolve/1110.cpp)|Medium|
+|1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[c++](./ProblemSolve/1189.cpp)|Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[c++](./ProblemSolve/1207.cpp)|Easy|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[c++](./ProblemSolve/1219.cpp)|Medium|
 |1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[c++](./ProblemSolve/1234.cpp)|Medium|
