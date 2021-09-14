@@ -134,6 +134,7 @@ LeetCode
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[c++](./ProblemSolve/347.cpp)|Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[c++](./ProblemSolve/350.cpp)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[c++](./ProblemSolve/371.cpp)|Medium|
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[c++](./ProblemSolve/376.cpp)|Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[c++](./ProblemSolve/384.cpp)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[c++](./ProblemSolve/387.cpp)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[c++](./ProblemSolve/392.cpp)|Easy|
@@ -150,6 +151,7 @@ LeetCode
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[c++](./ProblemSolve/537.cpp)|Medium|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[c++](./ProblemSolve/539.cpp)|Medium|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[c++](./ProblemSolve/547.cpp)|Medium|
+|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[c++](./ProblemSolve/557.cpp)|Easy|
 |560|[Subarray Sums Eqauls K](https://leetcode.com/problems/subarray-sums-equals-k/)|[c++](./ProblemSolve/560.cpp)|Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[c++](./ProblemSolve/561.cpp)|Easy|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[c++](./ProblemSolve/565.cpp)|Medium|
@@ -179,6 +181,7 @@ LeetCode
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[c++](./ProblemSolve/848.cpp)|Medium|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[c++](./ProblemSolve/849.cpp)|Medium|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[c++](./ProblemSolve/869.cpp)|Medium|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[c++](./ProblemSolve/876.cpp)|Easy|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[c++](./ProblemSolve/881.cpp)|Medium|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[c++](./ProblemSolve/917.cpp)|Easy|
 |921|[Minimum Add to Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[c++](./ProblemSolve/921.cpp)|Medium|
