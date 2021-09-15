@@ -144,6 +144,7 @@ LeetCode
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[c++](./ProblemSolve/413.cpp)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[c++](./ProblemSolve/415.cpp)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./ProblemSolve/429.cpp)|Easy|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[c++](./ProblemSolve/438.cpp)|Medium|
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[c++](./ProblemSolve/476.cpp)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[c++](./ProblemSolve/521.cpp)|Easy|
@@ -155,6 +156,7 @@ LeetCode
 |560|[Subarray Sums Eqauls K](https://leetcode.com/problems/subarray-sums-equals-k/)|[c++](./ProblemSolve/560.cpp)|Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[c++](./ProblemSolve/561.cpp)|Easy|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[c++](./ProblemSolve/565.cpp)|Medium|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[c++](./ProblemSolve/567.cpp)|Medium|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[c++](./ProblemSolve/589.cpp)|Easy|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[c++](./ProblemSolve/593.cpp)|Medium|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[c++](./ProblemSolve/598.cpp)|Easy|
@@ -191,6 +193,7 @@ LeetCode
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[c++](./ProblemSolve/973.cpp)|Medium|
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[c++](./ProblemSolve/974.cpp)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[c++](./ProblemSolve/977.cpp)|Easy|
+|978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[c++](./ProblemSolve/978.cpp)|Medium|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[c++](./ProblemSolve/993.cpp)|Easy|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[c++](./ProblemSolve/1002.cpp)|Easy|
 |1110|[Delete Nodes And Returns Forest](https://leetcode.com/problems/delete-nodes-and-returns-forest/)|[c++](./ProblemSolve/1110.cpp)|Medium|
