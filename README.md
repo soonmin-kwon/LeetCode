@@ -40,6 +40,7 @@ LeetCode
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[c++](./ProblemSolve/50.cpp)|Medium|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[c++](./ProblemSolve/51.cpp)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[c++](./ProblemSolve/53.cpp)|Easy|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[c++](./ProblemSolve/54.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[c++](./ProblemSolve/55.cpp)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](./ProblemSolve/56.cpp)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[c++](./ProblemSolve/58.cpp)|Easy|
@@ -166,10 +167,12 @@ LeetCode
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[c++](./ProblemSolve/670.cpp)|Medium|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[c++](./ProblemSolve/692.cpp)|Medium|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[c++](./ProblemSolve/693.cpp)|Easy|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[c++](./ProblemSolve/695.cpp)|Medium|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[c++](./ProblemSolve/696.cpp)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp)|Easy|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[c++](./ProblemSolve/713.cpp)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[c++](./ProblemSolve/724.cpp)|Easy|
+|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[c++](./ProblemSolve/733.cpp)|Easy|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[c++](./ProblemSolve/740.cpp)|Medium|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[c++](./ProblemSolve/743.cpp)|Medium|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[c++](./ProblemSolve/752.cpp)|Medium|
