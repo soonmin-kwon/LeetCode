@@ -152,6 +152,7 @@ LeetCode
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[c++](./ProblemSolve/522.cpp)|Medium|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[c++](./ProblemSolve/537.cpp)|Medium|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[c++](./ProblemSolve/539.cpp)|Medium|
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[c++](./ProblemSolve/542.cpp)|Medium|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[c++](./ProblemSolve/547.cpp)|Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[c++](./ProblemSolve/557.cpp)|Easy|
 |560|[Subarray Sums Eqauls K](https://leetcode.com/problems/subarray-sums-equals-k/)|[c++](./ProblemSolve/560.cpp)|Medium|
@@ -161,6 +162,7 @@ LeetCode
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[c++](./ProblemSolve/589.cpp)|Easy|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[c++](./ProblemSolve/593.cpp)|Medium|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[c++](./ProblemSolve/598.cpp)|Easy|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[c++](./ProblemSolve/617.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[c++](./ProblemSolve/633.cpp)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[c++](./ProblemSolve/647.cpp)|Medium|
 |653|[Two Sum IV - Input is BST](https://leetcode.com/problems/two-sum-iv-input-is-bst/)|[c++](./ProblemSolve/653.cpp)|Medium|
@@ -198,6 +200,7 @@ LeetCode
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[c++](./ProblemSolve/977.cpp)|Easy|
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[c++](./ProblemSolve/978.cpp)|Medium|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[c++](./ProblemSolve/993.cpp)|Easy|
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[c++](./ProblemSolve/994.cpp)|Medium|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[c++](./ProblemSolve/1002.cpp)|Easy|
 |1110|[Delete Nodes And Returns Forest](https://leetcode.com/problems/delete-nodes-and-returns-forest/)|[c++](./ProblemSolve/1110.cpp)|Medium|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[c++](./ProblemSolve/1189.cpp)|Easy|
