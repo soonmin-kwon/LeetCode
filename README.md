@@ -2,6 +2,8 @@ LeetCode
 ========
 
 ### LeetCode Algorithm
+###
+### Daily Problem Solve
 
 | # | Title | Code | Difficulty |
 |---| ----- | ---- | ---------- |
@@ -53,6 +55,7 @@ LeetCode
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[c++](./ProblemSolve/74.cpp)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[c++](./ProblemSolve/75.cpp)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[c++](./ProblemSolve/76.cpp)|Hard|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[c++](./ProblemSolve/77.cpp)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[c++](./ProblemSolve/78.cpp)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[c++](./ProblemSolve/79.cpp)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[c++](./ProblemSolve/83.cpp)|Easy|
@@ -174,12 +177,14 @@ LeetCode
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp)|Easy|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[c++](./ProblemSolve/713.cpp)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[c++](./ProblemSolve/724.cpp)|Easy|
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[c++](./ProblemSolve/728.cpp)|Easy|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[c++](./ProblemSolve/733.cpp)|Easy|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[c++](./ProblemSolve/740.cpp)|Medium|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[c++](./ProblemSolve/743.cpp)|Medium|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[c++](./ProblemSolve/752.cpp)|Medium|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[c++](./ProblemSolve/762.cpp)|Easy|
 |764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)|[c++](./ProblemSolve/764.cpp)|Medium|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[c++](./ProblemSolve/784.cpp)|Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[c++](./ProblemSolve/807.cpp)|Medium|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
