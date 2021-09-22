@@ -214,6 +214,7 @@ LeetCode
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[c++](./ProblemSolve/1002.cpp)|Easy|
 |1110|[Delete Nodes And Returns Forest](https://leetcode.com/problems/delete-nodes-and-returns-forest/)|[c++](./ProblemSolve/1110.cpp)|Medium|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[c++](./ProblemSolve/1189.cpp)|Easy|
+|1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)|[c++](./ProblemSolve/1191.cpp)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[c++](./ProblemSolve/1207.cpp)|Easy|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[c++](./ProblemSolve/1219.cpp)|Medium|
 |1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[c++](./ProblemSolve/1234.cpp)|Medium|
@@ -243,3 +244,4 @@ LeetCode
 |1837|[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[c++](./ProblemSolve/1837.cpp)|Easy|
 |1859|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[c++](./ProblemSolve/1859.cpp)|Easy|
 |1985|[Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)|[c++](./ProblemSolve/1985.cpp)|Medium|
+|1971|[Find if Path Exits in Graph](https://leetcode.com/problems/find-if-path-exits-in-graph/)|[c++](./ProblemSolve/1971.cpp)|Easy|
