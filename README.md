@@ -223,6 +223,7 @@ LeetCode
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[c++](./ProblemSolve/1299.cpp)|Easy|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[c++](./ProblemSolve/1314.cpp)|Medium|
 |1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[c++](./ProblemSolve/1319.cpp)|Medium|
+|1328|[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[c++](./ProblemSolve/1328.cpp)|Medium|
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[c++](./ProblemSolve/1339.cpp)|Medium|
 |1419|[Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)|[c++](./ProblemSolve/1419.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./ProblemSolve/1431.cpp)|Easy|
