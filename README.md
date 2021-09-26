@@ -153,6 +153,7 @@ LeetCode
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[c++](./ProblemSolve/438.cpp)|Medium|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[c++](./ProblemSolve/459.cpp)|Medium|
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
+|462|[Minimum Moves to Eqaul Array Elements II](https://leetcode.com/problems/medium-moves-to-equal-array-elements-ii/)|[c++](./ProblemSolve/462.cpp)|Medium|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[c++](./ProblemSolve/476.cpp)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[c++](./ProblemSolve/485.cpp)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacii-number/)|[c++](./ProblemSolve/509.cpp)|Easy|
