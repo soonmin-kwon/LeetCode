@@ -159,6 +159,7 @@ LeetCode
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacii-number/)|[c++](./ProblemSolve/509.cpp)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[c++](./ProblemSolve/521.cpp)|Easy|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[c++](./ProblemSolve/522.cpp)|Medium|
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[c++](./ProblemSolve/530.cpp)|Easy|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[c++](./ProblemSolve/537.cpp)|Medium|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[c++](./ProblemSolve/539.cpp)|Medium|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[c++](./ProblemSolve/542.cpp)|Medium|
