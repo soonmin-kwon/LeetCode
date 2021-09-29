@@ -196,6 +196,7 @@ LeetCode
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[c++](./ProblemSolve/784.cpp)|Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[c++](./ProblemSolve/807.cpp)|Medium|
+|821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[c++](./ProblemSolve/821.cpp)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[c++](./ProblemSolve/830.cpp)|Easy|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[c++](./ProblemSolve/841.cpp)|Medium|
