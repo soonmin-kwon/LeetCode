@@ -244,6 +244,7 @@ LeetCode
 |1626|[Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)|[c++](./ProblemSolve/1626.cpp)|Medium|
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[c++](./ProblemSolve/1629.cpp)|Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[c++](./ProblemSolve/1662.cpp)|Easy|
+|1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[c++](./ProblemSolve/1684.cpp)|Easy|
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[c++](./ProblemSolve/1690.cpp)|Medium|
 |1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[c++](./ProblemSolve/1695.cpp)|Medium|
 |1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)|[c++](./ProblemSolve/1759.cpp)|Medium|
