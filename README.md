@@ -107,6 +107,7 @@ LeetCode
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[c++](./ProblemSolve/204.cpp)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[c++](./ProblemSolve/205.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[c++](./ProblemSolve/206.cpp)|Easy|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[c++](./ProblemSolve/207.cpp)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[c++](./ProblemSolve/213.cpp)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./ProblemSolve/215.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./ProblemSolve/217.cpp)|Easy|
@@ -207,6 +208,7 @@ LeetCode
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[c++](./ProblemSolve/874.cpp)|Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[c++](./ProblemSolve/876.cpp)|Easy|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[c++](./ProblemSolve/881.cpp)|Medium|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[c++](./ProblemSolve/896.cpp)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[c++](./ProblemSolve/917.cpp)|Easy|
 |921|[Minimum Add to Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[c++](./ProblemSolve/921.cpp)|Medium|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[c++](./ProblemSolve/922.cpp)|Easy|
