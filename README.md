@@ -155,6 +155,7 @@ LeetCode
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[c++](./ProblemSolve/459.cpp)|Medium|
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
 |462|[Minimum Moves to Eqaul Array Elements II](https://leetcode.com/problems/medium-moves-to-equal-array-elements-ii/)|[c++](./ProblemSolve/462.cpp)|Medium|
+|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[c++](./ProblemSolve/463.cpp)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[c++](./ProblemSolve/476.cpp)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[c++](./ProblemSolve/485.cpp)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacii-number/)|[c++](./ProblemSolve/509.cpp)|Easy|
@@ -171,6 +172,7 @@ LeetCode
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[c++](./ProblemSolve/563.cpp)|Medium|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[c++](./ProblemSolve/565.cpp)|Medium|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[c++](./ProblemSolve/567.cpp)|Medium|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[c++](./ProblemSolve/581.cpp)|Medium|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[c++](./ProblemSolve/589.cpp)|Easy|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[c++](./ProblemSolve/593.cpp)|Medium|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[c++](./ProblemSolve/598.cpp)|Easy|
@@ -223,6 +225,7 @@ LeetCode
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[c++](./ProblemSolve/994.cpp)|Medium|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[c++](./ProblemSolve/1002.cpp)|Easy|
 |1047|[Remove All Dpulicates in String](https://leetcode.com/problems/remove-all-duplicates-in-string/)|[c++](./ProblemSolve/1047.cpp)|Easy|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[c++](./ProblemSolve/1108.cpp)|Easy|
 |1110|[Delete Nodes And Returns Forest](https://leetcode.com/problems/delete-nodes-and-returns-forest/)|[c++](./ProblemSolve/1110.cpp)|Medium|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[c++](./ProblemSolve/1137.cpp)|Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[c++](./ProblemSolve/1143.cpp)|Medium|
