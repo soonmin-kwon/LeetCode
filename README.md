@@ -102,6 +102,7 @@ LeetCode
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[c++](./ProblemSolve/191.cpp)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[c++](./ProblemSolve/198.cpp)|Medium|
 |200|[Number of Island](https://leetcode.com/problems/number-of-island/)|[c++](./ProblemSolve/200.cpp)|Medium|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[c++](./ProblemSolve/201.cpp)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[c++](./ProblemSolve/202.cpp)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[c++](./ProblemSolve/203.cpp)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[c++](./ProblemSolve/204.cpp)|Easy|
@@ -153,6 +154,7 @@ LeetCode
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./ProblemSolve/429.cpp)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[c++](./ProblemSolve/437.cpp)|Medium|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[c++](./ProblemSolve/438.cpp)|Medium|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[c++](./ProblemSolve/442.cpp)|Medium|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[c++](./ProblemSolve/459.cpp)|Medium|
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
 |462|[Minimum Moves to Eqaul Array Elements II](https://leetcode.com/problems/medium-moves-to-equal-array-elements-ii/)|[c++](./ProblemSolve/462.cpp)|Medium|
@@ -225,6 +227,7 @@ LeetCode
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[c++](./ProblemSolve/993.cpp)|Easy|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[c++](./ProblemSolve/994.cpp)|Medium|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[c++](./ProblemSolve/1002.cpp)|Easy|
+|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[c++](./ProblemSolve/1018.cpp)|Easy|
 |1047|[Remove All Dpulicates in String](https://leetcode.com/problems/remove-all-duplicates-in-string/)|[c++](./ProblemSolve/1047.cpp)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[c++](./ProblemSolve/1108.cpp)|Easy|
 |1110|[Delete Nodes And Returns Forest](https://leetcode.com/problems/delete-nodes-and-returns-forest/)|[c++](./ProblemSolve/1110.cpp)|Medium|
