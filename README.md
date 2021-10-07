@@ -26,6 +26,7 @@ LeetCode
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[c++](./ProblemSolve/20.cpp)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[c++](./ProblemSolve/21.cpp)|Easy|
 |22|[Generate Parenthesis](https://leetcode.com/problems/generate-parenthesis/)|[c++](./ProblemSolve/22.cpp)|Medium|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[c++](./ProblemSolve/24.cpp)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sroted-array/)|[c++](./ProblemSolve/26.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[c++](./ProblemSolve/27.cpp)|Easy|
 |28|[Implment strStr()](https://leetcode.com/problems/implement-strstr/)|[c++](./ProblemSolve/28.cpp)|Easy|
@@ -114,6 +115,7 @@ LeetCode
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./ProblemSolve/217.cpp)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[c++](./ProblemSolve/219.cpp)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[c++](./ProblemSolve/221.cpp)|Medium|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[c++](./ProblemSolve/225.cpp)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[c++](./ProblemSolve/226.cpp)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[c++](./ProblemSolve/230.cpp)|Medium|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[c++](./ProblemSolve/234.cpp)|Easy|
@@ -214,6 +216,7 @@ LeetCode
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[c++](./ProblemSolve/876.cpp)|Easy|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[c++](./ProblemSolve/881.cpp)|Medium|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[c++](./ProblemSolve/896.cpp)|Easy|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[c++](./ProblemSolve/905.cpp)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[c++](./ProblemSolve/917.cpp)|Easy|
 |921|[Minimum Add to Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[c++](./ProblemSolve/921.cpp)|Medium|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[c++](./ProblemSolve/922.cpp)|Easy|
