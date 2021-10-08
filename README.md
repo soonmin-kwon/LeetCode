@@ -110,6 +110,7 @@ LeetCode
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[c++](./ProblemSolve/205.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[c++](./ProblemSolve/206.cpp)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[c++](./ProblemSolve/207.cpp)|Medium|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[c++](./ProblemSolve/208.cpp)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[c++](./ProblemSolve/213.cpp)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./ProblemSolve/215.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./ProblemSolve/217.cpp)|Easy|
@@ -231,6 +232,7 @@ LeetCode
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[c++](./ProblemSolve/994.cpp)|Medium|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[c++](./ProblemSolve/1002.cpp)|Easy|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[c++](./ProblemSolve/1018.cpp)|Easy|
+|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[c++](./ProblemSolve/1038.cpp)|Medium|
 |1047|[Remove All Dpulicates in String](https://leetcode.com/problems/remove-all-duplicates-in-string/)|[c++](./ProblemSolve/1047.cpp)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[c++](./ProblemSolve/1108.cpp)|Easy|
 |1110|[Delete Nodes And Returns Forest](https://leetcode.com/problems/delete-nodes-and-returns-forest/)|[c++](./ProblemSolve/1110.cpp)|Medium|
@@ -262,6 +264,7 @@ LeetCode
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[c++](./ProblemSolve/1684.cpp)|Easy|
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[c++](./ProblemSolve/1690.cpp)|Medium|
 |1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[c++](./ProblemSolve/1695.cpp)|Medium|
+|1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[c++](./ProblemSolve/1704.cpp)|Easy|
 |1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)|[c++](./ProblemSolve/1759.cpp)|Medium|
 |1786|[Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/)|[c++](./ProblemSolve/1786.cpp)|Medium|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[c++](./ProblemSolve/1805.cpp)|Easy|
