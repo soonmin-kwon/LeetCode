@@ -111,6 +111,7 @@ LeetCode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[c++](./ProblemSolve/206.cpp)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[c++](./ProblemSolve/207.cpp)|Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[c++](./ProblemSolve/208.cpp)|Medium|
+|212[Word Search II](https://leetcode.com/problems/word-search-ii/)|[c++](./ProblemSolve/212.cpp)|Hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[c++](./ProblemSolve/213.cpp)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./ProblemSolve/215.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./ProblemSolve/217.cpp)|Easy|
@@ -223,6 +224,7 @@ LeetCode
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[c++](./ProblemSolve/922.cpp)|Easy|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[c++](./ProblemSolve/931.cpp)|Medium|
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[c++](./ProblemSolve/935.cpp)|Medium|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[c++](./ProblemSolve/938.cpp)|Easy|
 |954|[Array of Double Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[c++](./ProblemSolve/954.cpp)|Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[c++](./ProblemSolve/973.cpp)|Medium|
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[c++](./ProblemSolve/974.cpp)|Medium|
@@ -250,6 +252,7 @@ LeetCode
 |1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[c++](./ProblemSolve/1319.cpp)|Medium|
 |1328|[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[c++](./ProblemSolve/1328.cpp)|Medium|
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[c++](./ProblemSolve/1339.cpp)|Medium|
+|1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[c++](./ProblemSolve/1367.cpp)|Medium|
 |1419|[Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)|[c++](./ProblemSolve/1419.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./ProblemSolve/1431.cpp)|Easy|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-binary-tree/)|[c++](./ProblemSolve/1448.cpp)|Medium|
