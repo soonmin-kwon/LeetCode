@@ -265,6 +265,7 @@ LeetCode
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[c++](./ProblemSolve/1629.cpp)|Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[c++](./ProblemSolve/1662.cpp)|Easy|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[c++](./ProblemSolve/1684.cpp)|Easy|
+|1685|[Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differneces-in-a-sorted-array/)|[c++](./ProblemSolve/1685.cpp)|Medium|
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[c++](./ProblemSolve/1690.cpp)|Medium|
 |1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[c++](./ProblemSolve/1695.cpp)|Medium|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[c++](./ProblemSolve/1704.cpp)|Easy|
