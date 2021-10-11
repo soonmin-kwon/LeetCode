@@ -77,6 +77,7 @@ LeetCode
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[c++](./ProblemSolve/111.cpp)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[c++](./ProblemSolve/112.cpp)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[c++](./ProblemSolve/113.cpp)|Medium|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[c++](./ProblemSolve/114.cpp)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[c++](./ProblemSolve/116.cpp)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](./ProblemSolve/118.cpp)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[c++](./ProblemSolve/119.cpp)|Easy|
@@ -172,6 +173,7 @@ LeetCode
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[c++](./ProblemSolve/537.cpp)|Medium|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[c++](./ProblemSolve/539.cpp)|Medium|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[c++](./ProblemSolve/542.cpp)|Medium|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[c++](./ProblemSolve/543.cpp)|Easy|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[c++](./ProblemSolve/547.cpp)|Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[c++](./ProblemSolve/557.cpp)|Easy|
 |560|[Subarray Sums Eqauls K](https://leetcode.com/problems/subarray-sums-equals-k/)|[c++](./ProblemSolve/560.cpp)|Medium|
