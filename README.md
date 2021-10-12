@@ -79,6 +79,7 @@ LeetCode
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[c++](./ProblemSolve/113.cpp)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[c++](./ProblemSolve/114.cpp)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[c++](./ProblemSolve/116.cpp)|Medium|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[c++](./ProblemSolve/117.cpp)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](./ProblemSolve/118.cpp)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[c++](./ProblemSolve/119.cpp)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[c++](./ProblemSolve/121.cpp)|Easy|
@@ -147,6 +148,7 @@ LeetCode
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[c++](./ProblemSolve/350.cpp)|Easy|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[c++](./ProblemSolve/368.cpp)|Medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[c++](./ProblemSolve/371.cpp)|Medium|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[c++](./ProblemSolve/374.cpp)|Easy|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[c++](./ProblemSolve/376.cpp)|Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[c++](./ProblemSolve/384.cpp)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[c++](./ProblemSolve/387.cpp)|Easy|
@@ -260,6 +262,7 @@ LeetCode
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-binary-tree/)|[c++](./ProblemSolve/1448.cpp)|Medium|
 |1456|[Maximum Number of Vowels in a Substrings of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substrings-of-given-length/)|[c++](./ProblemSolve/1456.cpp)|Medium|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[c++](./ProblemSolve/1475.cpp)|Easy|
+|1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[c++](./ProblemSolve/1491.cpp)|Easy|
 |1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)|[c++](./ProblemSolve/1475.cpp)|Medium|
 |1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[c++](./ProblemSolve/1557.cpp)|Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[c++](./ProblemSolve/1584.cpp)|Medium|
