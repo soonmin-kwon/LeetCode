@@ -35,6 +35,7 @@ LeetCode
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[c++](./ProblemSolve/35.cpp)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[c++](./ProblemSolve/36.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[c++](./ProblemSolve/38.cpp)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[c++](./ProblemSolve/39.cpp)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[c++](./ProblemSolve/40.cpp)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[c++](./ProblemSolve/42.cpp)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[c++](./ProblemSolve/45.cpp)|Medium|
@@ -130,6 +131,7 @@ LeetCode
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[c++](./ProblemSolve/260.cpp)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[c++](./ProblemSolve/268.cpp)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[c++](./ProblemSolve/278.cpp)|Easy|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[c++](./ProblemSolve/279.cpp)|Medium|
 |283|[Moves Zeroes](https://leetcode.com/problems/moves-zeroes/)|[c++](./ProblemSolve/283.cpp)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[c++](./ProblemSolve/287.cpp)|Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[c++](./ProblemSolve/289.cpp)|Medium|
@@ -169,6 +171,7 @@ LeetCode
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[c++](./ProblemSolve/476.cpp)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[c++](./ProblemSolve/485.cpp)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacii-number/)|[c++](./ProblemSolve/509.cpp)|Easy|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[c++](./ProblemSolve/520.cpp)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[c++](./ProblemSolve/521.cpp)|Easy|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[c++](./ProblemSolve/522.cpp)|Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[c++](./ProblemSolve/530.cpp)|Easy|
@@ -284,5 +287,6 @@ LeetCode
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[c++](./ProblemSolve/1822.cpp)|Easy|
 |1837|[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[c++](./ProblemSolve/1837.cpp)|Easy|
 |1859|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[c++](./ProblemSolve/1859.cpp)|Easy|
+|1905|[Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)|[c++](./ProblemSolve/1905.cpp)|Medium|
 |1985|[Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)|[c++](./ProblemSolve/1985.cpp)|Medium|
 |1971|[Find if Path Exits in Graph](https://leetcode.com/problems/find-if-path-exits-in-graph/)|[c++](./ProblemSolve/1971.cpp)|Easy|
