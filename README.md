@@ -271,6 +271,7 @@ LeetCode
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[c++](./ProblemSolve/1491.cpp)|Easy|
 |1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)|[c++](./ProblemSolve/1475.cpp)|Medium|
 |1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[c++](./ProblemSolve/1557.cpp)|Medium|
+|1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[c++](./ProblemSolve/1572.cpp)|Easy|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[c++](./ProblemSolve/1584.cpp)|Medium|
 |1626|[Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)|[c++](./ProblemSolve/1626.cpp)|Medium|
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[c++](./ProblemSolve/1629.cpp)|Easy|
