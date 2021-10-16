@@ -156,6 +156,7 @@ LeetCode
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[c++](./ProblemSolve/387.cpp)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[c++](./ProblemSolve/392.cpp)|Easy|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[c++](./ProblemSolve/398.cpp)|Medium|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[c++](./ProblemSolve/402.cpp)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[c++](./ProblemSolve/404.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[c++](./ProblemSolve/412.cpp)|Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[c++](./ProblemSolve/413.cpp)|Medium|
