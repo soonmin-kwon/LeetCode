@@ -197,6 +197,7 @@ LeetCode
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[c++](./ProblemSolve/647.cpp)|Medium|
 |653|[Two Sum IV - Input is BST](https://leetcode.com/problems/two-sum-iv-input-is-bst/)|[c++](./ProblemSolve/653.cpp)|Medium|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[c++](./ProblemSolve/670.cpp)|Medium|
+|673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[c++](./ProblemSolve/673.cpp)|Medium|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[c++](./ProblemSolve/692.cpp)|Medium|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[c++](./ProblemSolve/693.cpp)|Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[c++](./ProblemSolve/695.cpp)|Medium|
