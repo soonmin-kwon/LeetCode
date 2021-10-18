@@ -129,6 +129,8 @@ LeetCode
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[c++](./ProblemSolve/242.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[c++](./ProblemSolve/257.cpp)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[c++](./ProblemSolve/260.cpp)|Medium|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[c++](./ProblemSolve/263.cpp)|Easy|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[c++](./ProblemSolve/264.cpp)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[c++](./ProblemSolve/268.cpp)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[c++](./ProblemSolve/278.cpp)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[c++](./ProblemSolve/279.cpp)|Medium|
@@ -235,6 +237,7 @@ LeetCode
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[c++](./ProblemSolve/935.cpp)|Medium|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[c++](./ProblemSolve/938.cpp)|Easy|
 |954|[Array of Double Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[c++](./ProblemSolve/954.cpp)|Medium|
+|958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[c++](./ProblemSolve/958.cpp)|Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[c++](./ProblemSolve/973.cpp)|Medium|
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[c++](./ProblemSolve/974.cpp)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[c++](./ProblemSolve/977.cpp)|Easy|
