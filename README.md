@@ -173,6 +173,7 @@ LeetCode
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[c++](./ProblemSolve/463.cpp)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[c++](./ProblemSolve/476.cpp)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[c++](./ProblemSolve/485.cpp)|Easy|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[c++](./ProblemSolve/496.cpp)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacii-number/)|[c++](./ProblemSolve/509.cpp)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[c++](./ProblemSolve/520.cpp)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[c++](./ProblemSolve/521.cpp)|Easy|
@@ -189,6 +190,7 @@ LeetCode
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[c++](./ProblemSolve/563.cpp)|Medium|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[c++](./ProblemSolve/565.cpp)|Medium|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[c++](./ProblemSolve/567.cpp)|Medium|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[c++](./ProblemSolve/572.cpp)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[c++](./ProblemSolve/581.cpp)|Medium|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[c++](./ProblemSolve/589.cpp)|Easy|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[c++](./ProblemSolve/593.cpp)|Medium|
