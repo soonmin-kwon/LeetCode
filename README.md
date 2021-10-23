@@ -62,6 +62,7 @@ LeetCode
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[c++](./ProblemSolve/78.cpp)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[c++](./ProblemSolve/79.cpp)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[c++](./ProblemSolve/83.cpp)|Easy|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](./ProblemSolve/86.cpp)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[c++](./ProblemSolve/88.cpp)|Easy|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[c++](./ProblemSolve/90.cpp)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[c++](./ProblemSolve/91.cpp)|Medium|
@@ -228,6 +229,7 @@ LeetCode
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[c++](./ProblemSolve/830.cpp)|Easy|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[c++](./ProblemSolve/841.cpp)|Medium|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[c++](./ProblemSolve/844.cpp)|Easy|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[c++](./ProblemSolve/848.cpp)|Medium|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[c++](./ProblemSolve/849.cpp)|Medium|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[c++](./ProblemSolve/869.cpp)|Medium|
