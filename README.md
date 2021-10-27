@@ -206,6 +206,7 @@ LeetCode
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[c++](./ProblemSolve/623.cpp)|Medium|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[c++](./ProblemSolve/633.cpp)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[c++](./ProblemSolve/647.cpp)|Medium|
+|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[c++](./ProblemSolve/652.cpp)|Medium|
 |653|[Two Sum IV - Input is BST](https://leetcode.com/problems/two-sum-iv-input-is-bst/)|[c++](./ProblemSolve/653.cpp)|Medium|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[c++](./ProblemSolve/670.cpp)|Medium|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[c++](./ProblemSolve/673.cpp)|Medium|
