@@ -49,6 +49,7 @@ LeetCode
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[c++](./ProblemSolve/54.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[c++](./ProblemSolve/55.cpp)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](./ProblemSolve/56.cpp)|Medium|
+|57|[Insert Intervals](https://leetcode.com/problems/insert-intervals/)|[c++](./ProblemSolve/57.cpp)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[c++](./ProblemSolve/58.cpp)|Easy|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[c++](./ProblemSolve/62.cpp)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[c++](./ProblemSolve/66.cpp)|Easy|
@@ -226,6 +227,7 @@ LeetCode
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[c++](./ProblemSolve/752.cpp)|Medium|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[c++](./ProblemSolve/762.cpp)|Easy|
 |764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)|[c++](./ProblemSolve/764.cpp)|Medium|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[c++](./ProblemSolve/771.cpp)|Easy|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[c++](./ProblemSolve/779.cpp)|Medium|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[c++](./ProblemSolve/784.cpp)|Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
@@ -280,6 +282,7 @@ LeetCode
 |1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[c++](./ProblemSolve/1319.cpp)|Medium|
 |1324|[Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)|[c++](./ProblemSolve/1324.cpp)|Medium|
 |1328|[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[c++](./ProblemSolve/1328.cpp)|Medium|
+|1338|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[c++](./ProblemSolve/1338.cpp)|Medium|
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[c++](./ProblemSolve/1339.cpp)|Medium|
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[c++](./ProblemSolve/1367.cpp)|Medium|
 |1419|[Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)|[c++](./ProblemSolve/1419.cpp)|Medium|
