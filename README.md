@@ -14,7 +14,7 @@ LeetCode
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[c++](./ProblemSolve/6.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[c++](./ProblemSolve/7.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[c++](./ProblemSolve/8.cpp)|Medium|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[c++](./ProblemSolve/9.cpp),[c#](./ProblemSolve/9.cs)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[c++](./ProblemSolve/9.cpp), [c#](./ProblemSolve/9.cs)|Easy|
 |11|[Container with Most Water](https://leetcode.com/problems/container-with-most-water/)|[c++](./ProblemSolve/11.cpp)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[c++](./ProblemSolve/12.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[c++](./ProblemSolve/13.cpp)|Easy|
@@ -168,7 +168,7 @@ LeetCode
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[c++](./ProblemSolve/392.cpp)|Easy|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[c++](./ProblemSolve/398.cpp)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[c++](./ProblemSolve/402.cpp)|Medium|
-|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[c++](./ProblemSolve/404.cpp),[c#](./ProblemSolve/404.cs)|Easy|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[c++](./ProblemSolve/404.cpp), [c#](./ProblemSolve/404.cs)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[c++](./ProblemSolve/409.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[c++](./ProblemSolve/412.cpp)|Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[c++](./ProblemSolve/413.cpp)|Medium|
