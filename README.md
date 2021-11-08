@@ -69,6 +69,7 @@ LeetCode
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[c++](./ProblemSolve/90.cpp)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[c++](./ProblemSolve/91.cpp)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](./ProblemSolve/94.cpp)|Easy|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[c++](./ProblemSolve/96.cpp), [c#](./ProblemSolve/96.cs)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[c++](./ProblemSolve/98.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[c++](./ProblemSolve/100.cpp)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[c++](./ProblemSolve/101.cpp)|Easy|
