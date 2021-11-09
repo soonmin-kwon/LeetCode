@@ -165,6 +165,7 @@ LeetCode
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[c++](./ProblemSolve/376.cpp)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[c++](./ProblemSolve/380.cpp)|Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[c++](./ProblemSolve/384.cpp)|Medium|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[c++](./ProblemSolve/386.cpp), [c#](./ProblemSolve/386.cs)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[c++](./ProblemSolve/387.cpp)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[c++](./ProblemSolve/392.cpp)|Easy|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[c++](./ProblemSolve/398.cpp)|Medium|
