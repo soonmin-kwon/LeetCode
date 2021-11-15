@@ -159,7 +159,7 @@ LeetCode
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[c++](./ProblemSolve/344.cpp)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[c++](./ProblemSolve/347.cpp)|Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[c++](./ProblemSolve/350.cpp)|Easy|
-|368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[c++](./ProblemSolve/368.cpp)|Medium|
+|368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[c++](./ProblemSolve/368.cpp), [c#](./ProblemSolve/368.cs)|Medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[c++](./ProblemSolve/371.cpp)|Medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[c++](./ProblemSolve/374.cpp)|Easy|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[c++](./ProblemSolve/376.cpp)|Medium|
