@@ -95,6 +95,7 @@ LeetCode
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[c++](./ProblemSolve/136.cpp)|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[c++](./ProblemSolve/137.cpp)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[c++](./ProblemSolve/141.cpp)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[c++](./ProblemSolve/142.cpp), [c#](./ProblemSolve/142.cs)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](./ProblemSolve/144.cpp)|Easy|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](./ProblemSolve/145.cpp)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[c++](./ProblemSolve/151.cpp)|Medium|
@@ -184,7 +185,7 @@ LeetCode
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[c++](./ProblemSolve/448.cpp), [c#](./ProblemSolve/448.cs)|Easy|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[c++](./ProblemSolve/451.cpp)|Medium|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[c++](./ProblemSolve/459.cpp)|Medium|
-|461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp)|Easy|
+|461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp), [c#](./ProblemSolve/461.cs)|Easy|
 |462|[Minimum Moves to Eqaul Array Elements II](https://leetcode.com/problems/medium-moves-to-equal-array-elements-ii/)|[c++](./ProblemSolve/462.cpp)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[c++](./ProblemSolve/463.cpp)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[c++](./ProblemSolve/476.cpp)|Easy|
