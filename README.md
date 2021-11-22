@@ -184,6 +184,7 @@ LeetCode
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[c++](./ProblemSolve/441.cpp), [c#](./ProblemSolve/441.cs)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[c++](./ProblemSolve/442.cpp)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[c++](./ProblemSolve/448.cpp), [c#](./ProblemSolve/448.cs)|Easy|
+|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[c++](./ProblemSolve/450.cpp), [c#](./ProblemSolve/450.cs)|Medium|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[c++](./ProblemSolve/451.cpp)|Medium|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[c++](./ProblemSolve/459.cpp)|Medium|
 |461|[Hamming Distnace](https://leetcode.com/problems/hamming-distance/)|[c++](./ProblemSolve/461.cpp), [c#](./ProblemSolve/461.cs)|Easy|
