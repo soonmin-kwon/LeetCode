@@ -273,6 +273,7 @@ LeetCode
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[c++](./ProblemSolve/977.cpp)|Easy|
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[c++](./ProblemSolve/978.cpp)|Medium|
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[c++](./ProblemSolve/980.cpp)|Hard|
+|986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[c++](./ProblemSolve/986.cpp), [c#](./ProblemSolve/986.cs)|Medium|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[c++](./ProblemSolve/993.cpp)|Easy|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[c++](./ProblemSolve/994.cpp)|Medium|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[c++](./ProblemSolve/1002.cpp)|Easy|
