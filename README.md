@@ -45,7 +45,7 @@ LeetCode
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[c++](./ProblemSolve/49.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[c++](./ProblemSolve/50.cpp)|Medium|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[c++](./ProblemSolve/51.cpp)|Hard|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[c++](./ProblemSolve/53.cpp)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[c++](./ProblemSolve/53.cpp), [c#](./ProblemSolve/53.cs)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[c++](./ProblemSolve/54.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[c++](./ProblemSolve/55.cpp)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](./ProblemSolve/56.cpp)|Medium|
