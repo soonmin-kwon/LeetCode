@@ -33,7 +33,7 @@ LeetCode
 |28|[Implment strStr()](https://leetcode.com/problems/implement-strstr/)|[c++](./ProblemSolve/28.cpp)|Easy|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[c++](./ProblemSolve/33.cpp)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[c++](./ProblemSolve/34.cpp)|Medium|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[c++](./ProblemSolve/35.cpp)|Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[c++](./ProblemSolve/35.cpp), [c#](./ProblemSolve/35.cs)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[c++](./ProblemSolve/36.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[c++](./ProblemSolve/38.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[c++](./ProblemSolve/39.cpp)|Medium|
