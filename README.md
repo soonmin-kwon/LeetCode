@@ -194,6 +194,7 @@ LeetCode
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[c++](./ProblemSolve/476.cpp)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[c++](./ProblemSolve/485.cpp)|Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[c++](./ProblemSolve/496.cpp)|Easy|
+|504|[Base 7](https://leetcode.com/problems/base-7/)|[c++](./ProblemSolve/504.cpp)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacii-number/)|[c++](./ProblemSolve/509.cpp)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[c++](./ProblemSolve/520.cpp)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[c++](./ProblemSolve/521.cpp)|Easy|
