@@ -114,7 +114,7 @@ LeetCode
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./ProblemSolve/189.cpp)|Medium|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[c++](./ProblemSolve/190.cpp)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[c++](./ProblemSolve/191.cpp)|Easy|
-|198|[House Robber](https://leetcode.com/problems/house-robber/)|[c++](./ProblemSolve/198.cpp)|Medium|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[c++](./ProblemSolve/198.cpp), [c#](./ProblemSolve/198.cs)|Medium|
 |200|[Number of Island](https://leetcode.com/problems/number-of-island/)|[c++](./ProblemSolve/200.cpp)|Medium|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[c++](./ProblemSolve/201.cpp)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[c++](./ProblemSolve/202.cpp)|Easy|
