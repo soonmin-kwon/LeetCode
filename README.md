@@ -295,6 +295,7 @@ LeetCode
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[c++](./ProblemSolve/1189.cpp)|Easy|
 |1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)|[c++](./ProblemSolve/1191.cpp)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[c++](./ProblemSolve/1207.cpp)|Easy|
+|1217|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[c++](./ProblemSolve/1217.cpp), [c#](./ProblemSolve/1217.cs)|Easy|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[c++](./ProblemSolve/1219.cpp)|Medium|
 |1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[c++](./ProblemSolve/1234.cpp)|Medium|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[c++](./ProblemSolve/1239.cpp)|Medium|
