@@ -302,6 +302,7 @@ LeetCode
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[c++](./ProblemSolve/1249.cpp), [c#](./ProblemSolve/1249.cs)|Medium|
 |1267|[Count Servers that Communicate](https://leetcode.com/problems/count-severs-that-communicate/)|[c++](./ProblemSolve/1267.cpp)|Medium|
 |1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[c++](./ProblemSolve/1275.cpp)|Easy|
+|1290|[Convert Binary Number in a Linked List to Intger](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[c++](./ProblemSolve/1290.cpp), [c#](./ProblemSolve/1290.cs)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[c++](./ProblemSolve/1299.cpp)|Easy|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[c++](./ProblemSolve/1314.cpp)|Medium|
 |1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[c++](./ProblemSolve/1319.cpp)|Medium|
