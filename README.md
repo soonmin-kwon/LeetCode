@@ -318,6 +318,7 @@ LeetCode
 |1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step/)|[c++](./ProblemSolve/1413.cpp), [c#](./ProblemSolve/1413.cs)|Easy|
 |1419|[Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)|[c++](./ProblemSolve/1419.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./ProblemSolve/1431.cpp)|Easy|
+|1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[c++](./ProblemSolve/1446.cpp), [c#](./ProblemSolve/1446.cs)|Easy|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-binary-tree/)|[c++](./ProblemSolve/1448.cpp)|Medium|
 |1456|[Maximum Number of Vowels in a Substrings of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substrings-of-given-length/)|[c++](./ProblemSolve/1456.cpp)|Medium|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[c++](./ProblemSolve/1464.cpp)|Easy|
