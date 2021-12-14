@@ -272,7 +272,7 @@ LeetCode
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[c++](./ProblemSolve/922.cpp)|Easy|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[c++](./ProblemSolve/931.cpp)|Medium|
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[c++](./ProblemSolve/935.cpp)|Medium|
-|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[c++](./ProblemSolve/938.cpp)|Easy|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[c++](./ProblemSolve/938.cpp), [c#](./ProblemSolve/938.cs)|Easy|
 |952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[c++](./ProblemSolve/952.cpp), [c#](./ProblemSolve/952.cs)|Hard|
 |954|[Array of Double Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[c++](./ProblemSolve/954.cpp)|Medium|
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[c++](./ProblemSolve/958.cpp)|Medium|
