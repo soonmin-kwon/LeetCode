@@ -136,7 +136,7 @@ LeetCode
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[c++](./ProblemSolve/225.cpp)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[c++](./ProblemSolve/226.cpp)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[c++](./ProblemSolve/230.cpp)|Medium|
-|231[Power of Two](https://leetcode.com/problems/power-of-twe/)|[c++](./ProblemSolve/231.cpp), [c#](./ProblemSolve/231.cs)|Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-twe/)|[c++](./ProblemSolve/231.cpp), [c#](./ProblemSolve/231.cs)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[c++](./ProblemSolve/234.cpp)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[c++](./ProblemSolve/237.cpp)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[c++](./ProblemSolve/238.cpp), [c#](./ProblemSolve/238.cs)|Medium|
