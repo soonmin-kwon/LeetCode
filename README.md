@@ -283,7 +283,7 @@ LeetCode
 |952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[c++](./ProblemSolve/952.cpp), [c#](./ProblemSolve/952.cs)|Hard|
 |954|[Array of Double Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[c++](./ProblemSolve/954.cpp)|Medium|
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[c++](./ProblemSolve/958.cpp)|Medium|
-|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[c++](./ProblemSolve/973.cpp)|Medium|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[c++](./ProblemSolve/973.cpp), [c#](./ProblemSolve/973.cs)|Medium|
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[c++](./ProblemSolve/974.cpp)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[c++](./ProblemSolve/977.cpp)|Easy|
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[c++](./ProblemSolve/978.cpp)|Medium|
