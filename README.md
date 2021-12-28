@@ -268,7 +268,7 @@ LeetCode
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[c++](./ProblemSolve/849.cpp)|Medium|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[c++](./ProblemSolve/869.cpp)|Medium|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[c++](./ProblemSolve/874.cpp)|Medium|
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[c++](./ProblemSolve/876.cpp)|Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[c++](./ProblemSolve/876.cpp), [c#](./ProblemSolve/876.cs)|Easy|
 |878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)|[c++](./ProblemSolve/878.cpp), [c#](./ProblemSolve/878.cs)|Hard|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[c++](./ProblemSolve/881.cpp)|Medium|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[c++](./ProblemSolve/896.cpp)|Easy|
