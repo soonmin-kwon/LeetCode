@@ -291,6 +291,7 @@ LeetCode
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[c++](./ProblemSolve/986.cpp), [c#](./ProblemSolve/986.cs)|Medium|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[c++](./ProblemSolve/993.cpp)|Easy|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[c++](./ProblemSolve/994.cpp)|Medium|
+|997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[c++](./ProblemSolve/997.cpp), [c#](./ProblemSolve/997.cs)|Easy|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[c++](./ProblemSolve/1002.cpp)|Easy|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[c++](./ProblemSolve/1007.cpp)|Medium|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[c++](./ProblemSolve/1008.cpp)|Medium|
