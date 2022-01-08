@@ -10,7 +10,7 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[c++](./ProblemSolve/1.cpp), [c#](./ProblemSolve/1.cs)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[c++](./ProblemSolve/2.cpp), [c#](./ProblemSolve/2.cs)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[c++](./ProblemSolve/3.cpp), [c#](./ProblemSolve/3.cs)|Medium|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[c++](./ProblemSolve/5.cpp)|Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[c++](./ProblemSolve/5.cpp), [c#](./ProblemSolve/5.cs)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[c++](./ProblemSolve/6.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[c++](./ProblemSolve/7.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[c++](./ProblemSolve/8.cpp)|Medium|
