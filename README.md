@@ -301,6 +301,7 @@ LeetCode
 |1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[c++](./ProblemSolve/1010.cpp), [c#](./ProblemSolve/1010.cs)|Medium|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[c++](./ProblemSolve/1015.cpp), [c#](./ProblemSolve/1015.cs)|Medium|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[c++](./ProblemSolve/1018.cpp)|Easy|
+|1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[c++](./ProblemSolve/1022.cpp), [c#](./ProblemSolve/1022.cs)|Easy|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[c++](./ProblemSolve/1026.cpp), [c#](./ProblemSolve/1026.cs)|Medium|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[c++](./ProblemSolve/1038.cpp)|Medium|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[c++](./ProblemSolve/1041.cpp), [c#](./ProblemSolve/1041.cs)|Medium|
