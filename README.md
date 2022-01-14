@@ -13,7 +13,7 @@ LeetCode
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[c++](./ProblemSolve/5.cpp), [c#](./ProblemSolve/5.cs)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[c++](./ProblemSolve/6.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[c++](./ProblemSolve/7.cpp)|Easy|
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[c++](./ProblemSolve/8.cpp)|Medium|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[c++](./ProblemSolve/8.cpp), [c#](./ProblemSolve/8.cs)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[c++](./ProblemSolve/9.cpp), [c#](./ProblemSolve/9.cs)|Easy|
 |11|[Container with Most Water](https://leetcode.com/problems/container-with-most-water/)|[c++](./ProblemSolve/11.cpp)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[c++](./ProblemSolve/12.cpp)|Medium|
