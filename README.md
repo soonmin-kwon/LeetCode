@@ -230,6 +230,7 @@ LeetCode
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[c++](./ProblemSolve/589.cpp)|Easy|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[c++](./ProblemSolve/593.cpp)|Medium|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[c++](./ProblemSolve/598.cpp)|Easy|
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flower/)|[c++](./ProblemSolve/605.cpp), [c#](./ProblemSolve/605.cs)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[c++](./ProblemSolve/617.cpp)|Easy|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[c++](./ProblemSolve/623.cpp)|Medium|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[c++](./ProblemSolve/633.cpp)|Medium|
