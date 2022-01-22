@@ -350,6 +350,7 @@ LeetCode
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[c++](./ProblemSolve/1464.cpp)|Easy|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[c++](./ProblemSolve/1475.cpp)|Easy|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[c++](./ProblemSolve/1491.cpp)|Easy|
+|1510|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/)|[c++](./ProblemSolve/1510.cpp), [c#](./ProblemSolve/1510.cs)|Medium|
 |1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)|[c++](./ProblemSolve/1475.cpp)|Medium|
 |1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[c++](./ProblemSolve/1557.cpp)|Medium|
 |1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[c++](./ProblemSolve/1572.cpp)|Easy|
