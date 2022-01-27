@@ -183,6 +183,7 @@ LeetCode
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[c++](./ProblemSolve/387.cpp)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[c++](./ProblemSolve/392.cpp)|Easy|
 |394|[Decoding String](https://leetcode.com/problems/decoding-string/)|[c++](./ProblemSolve/394.cpp)|Medium|
+|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[c++](./ProblemSolve/397.cpp), [c++](./ProblemSolve/397.cs)|Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[c++](./ProblemSolve/398.cpp)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[c++](./ProblemSolve/402.cpp)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[c++](./ProblemSolve/404.cpp), [c#](./ProblemSolve/404.cs)|Easy|
