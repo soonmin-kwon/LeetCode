@@ -64,6 +64,7 @@ LeetCode
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[c++](./ProblemSolve/78.cpp)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[c++](./ProblemSolve/79.cpp)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[c++](./ProblemSolve/83.cpp)|Easy|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[c++](./ProblemSolve/84.cpp), [c#](./ProblemSolve/84.cs)|Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](./ProblemSolve/86.cpp)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[c++](./ProblemSolve/88.cpp)|Easy|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[c++](./ProblemSolve/90.cpp)|Medium|
