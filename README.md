@@ -117,7 +117,7 @@ LeetCode
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[c++](./ProblemSolve/171.cpp)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[c++](./ProblemSolve/172.cpp)|Easy|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[c++](./ProblemSolve/179.cpp)|Medium|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./ProblemSolve/189.cpp)|Medium|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./ProblemSolve/189.cpp), [c#](./ProblemSolve/189.cs)|Medium|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[c++](./ProblemSolve/190.cpp)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[c++](./ProblemSolve/191.cpp)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[c++](./ProblemSolve/198.cpp), [c#](./ProblemSolve/198.cs)|Medium|
