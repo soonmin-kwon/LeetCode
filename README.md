@@ -90,7 +90,7 @@ LeetCode
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[c++](./ProblemSolve/117.cpp)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](./ProblemSolve/118.cpp)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[c++](./ProblemSolve/119.cpp)|Easy|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[c++](./ProblemSolve/121.cpp)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[c++](./ProblemSolve/121.cpp), [c#](./ProblemSolve/121.cs)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[c++](./ProblemSolve/122.cpp), [c#](./ProblemSolve/122.cs)|Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[c++](./ProblemSolve/125.cpp)|Easy|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[c++](./ProblemSolve/129.cpp)|Medium|
