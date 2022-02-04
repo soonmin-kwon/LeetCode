@@ -216,6 +216,7 @@ LeetCode
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[c++](./ProblemSolve/520.cpp), [c#](./ProblemSolve/520.cs)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[c++](./ProblemSolve/521.cpp)|Easy|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[c++](./ProblemSolve/522.cpp)|Medium|
+|525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[c++](./ProblemSolve/525.cpp), [c#](./ProblemSolve/525.cs)|Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[c++](./ProblemSolve/530.cpp)|Easy|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[c++](./ProblemSolve/537.cpp)|Medium|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[c++](./ProblemSolve/539.cpp)|Medium|
