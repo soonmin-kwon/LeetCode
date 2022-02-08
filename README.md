@@ -151,6 +151,7 @@ LeetCode
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[c++](./ProblemSolve/240.cpp)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[c++](./ProblemSolve/242.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[c++](./ProblemSolve/257.cpp)|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[c++](./ProblemSolve/258.cpp), [c#](./ProblemSolve/258.cs)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[c++](./ProblemSolve/260.cpp), [c#](./ProblemSolve/260.cs)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[c++](./ProblemSolve/263.cpp)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[c++](./ProblemSolve/264.cpp)|Medium|
