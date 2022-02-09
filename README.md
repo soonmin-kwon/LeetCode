@@ -222,6 +222,7 @@ LeetCode
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[c++](./ProblemSolve/522.cpp)|Medium|
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[c++](./ProblemSolve/525.cpp), [c#](./ProblemSolve/525.cs)|Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[c++](./ProblemSolve/530.cpp)|Easy|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[c++](./ProblemSolve/532.cpp), [c#](./ProblemSolve/532.cs)|Medium|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[c++](./ProblemSolve/537.cpp)|Medium|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[c++](./ProblemSolve/539.cpp)|Medium|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[c++](./ProblemSolve/540.cpp), [c#](./ProblemSolve/540.cs)|Medium|
