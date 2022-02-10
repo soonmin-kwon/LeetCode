@@ -230,7 +230,7 @@ LeetCode
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[c++](./ProblemSolve/543.cpp)|Easy|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[c++](./ProblemSolve/547.cpp)|Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[c++](./ProblemSolve/557.cpp)|Easy|
-|560|[Subarray Sums Eqauls K](https://leetcode.com/problems/subarray-sums-equals-k/)|[c++](./ProblemSolve/560.cpp)|Medium|
+|560|[Subarray Sums Eqauls K](https://leetcode.com/problems/subarray-sums-equals-k/)|[c++](./ProblemSolve/560.cpp), [c#](./ProblemSolve/560.cs)|Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[c++](./ProblemSolve/561.cpp)|Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[c++](./ProblemSolve/563.cpp), [c#](./ProblemSolve/563.cs)|Easy|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[c++](./ProblemSolve/565.cpp)|Medium|
