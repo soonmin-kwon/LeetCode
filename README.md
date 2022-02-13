@@ -62,7 +62,7 @@ LeetCode
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[c++](./ProblemSolve/75.cpp)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[c++](./ProblemSolve/76.cpp)|Hard|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[c++](./ProblemSolve/77.cpp)|Medium|
-|78|[Subsets](https://leetcode.com/problems/subsets/)|[c++](./ProblemSolve/78.cpp)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/)|[c++](./ProblemSolve/78.cpp), [c#](./ProblemSolve/78.cs)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[c++](./ProblemSolve/79.cpp)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[c++](./ProblemSolve/80.cpp), [c#](./ProblemSolve/80.cs)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[c++](./ProblemSolve/83.cpp)|Easy|
