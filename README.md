@@ -28,7 +28,7 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[c++](./ProblemSolve/21.cpp)|Easy|
 |22|[Generate Parenthesis](https://leetcode.com/problems/generate-parenthesis/)|[c++](./ProblemSolve/22.cpp)|Medium|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[c++](./ProblemSolve/23.cpp), [c#](./ProblemSolve/23.cs)|Hard|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[c++](./ProblemSolve/24.cpp)|Medium|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[c++](./ProblemSolve/24.cpp), [c#](./ProblemSolve/24.cs)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sroted-array/)|[c++](./ProblemSolve/26.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[c++](./ProblemSolve/27.cpp)|Easy|
 |28|[Implment strStr()](https://leetcode.com/problems/implement-strstr/)|[c++](./ProblemSolve/28.cpp)|Easy|
