@@ -37,7 +37,7 @@ LeetCode
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[c++](./ProblemSolve/35.cpp), [c#](./ProblemSolve/35.cs)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[c++](./ProblemSolve/36.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[c++](./ProblemSolve/38.cpp)|Medium|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[c++](./ProblemSolve/39.cpp)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[c++](./ProblemSolve/39.cpp), [c#](./ProblemSolve/39.cs)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[c++](./ProblemSolve/40.cpp)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[c++](./ProblemSolve/42.cpp)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[c++](./ProblemSolve/45.cpp)|Medium|
