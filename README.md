@@ -190,7 +190,7 @@ LeetCode
 |394|[Decoding String](https://leetcode.com/problems/decoding-string/)|[c++](./ProblemSolve/394.cpp)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[c++](./ProblemSolve/397.cpp), [c++](./ProblemSolve/397.cs)|Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[c++](./ProblemSolve/398.cpp)|Medium|
-|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[c++](./ProblemSolve/402.cpp)|Medium|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[c++](./ProblemSolve/402.cpp), [c#](./ProblemSolve/402.cs)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[c++](./ProblemSolve/404.cpp), [c#](./ProblemSolve/404.cs)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[c++](./ProblemSolve/409.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[c++](./ProblemSolve/412.cpp)|Easy|
