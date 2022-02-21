@@ -115,7 +115,7 @@ LeetCode
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[c++](./ProblemSolve/162.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[c++](./ProblemSolve/167.cpp)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[c++](./ProblemSolve/168.cpp)|Easy|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[c++](./ProblemSolve/169.cpp)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[c++](./ProblemSolve/169.cpp), [c#](./ProblemSolve/169.cs)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[c++](./ProblemSolve/171.cpp)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[c++](./ProblemSolve/172.cpp)|Easy|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[c++](./ProblemSolve/179.cpp)|Medium|
