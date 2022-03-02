@@ -191,7 +191,7 @@ LeetCode
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[c++](./ProblemSolve/386.cpp), [c#](./ProblemSolve/386.cs)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[c++](./ProblemSolve/387.cpp)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[c++](./ProblemSolve/389.cpp), [c#](./ProblemSolve/389.cs)|Easy|
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[c++](./ProblemSolve/392.cpp)|Easy|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[c++](./ProblemSolve/392.cpp), [c#](./ProblemSolve/392.cs)|Easy|
 |394|[Decoding String](https://leetcode.com/problems/decoding-string/)|[c++](./ProblemSolve/394.cpp)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[c++](./ProblemSolve/397.cpp), [c++](./ProblemSolve/397.cs)|Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[c++](./ProblemSolve/398.cpp)|Medium|
