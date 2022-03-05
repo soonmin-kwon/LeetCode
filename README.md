@@ -269,7 +269,7 @@ LeetCode
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[c++](./ProblemSolve/728.cpp)|Easy|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[c++](./ProblemSolve/733.cpp)|Easy|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[c++](./ProblemSolve/739.cpp), [c#](./ProblemSolve/739.cs)|Medium|
-|740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[c++](./ProblemSolve/740.cpp)|Medium|
+|740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[c++](./ProblemSolve/740.cpp), [c#](./ProblemSolve/740.cs)|Medium|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[c++](./ProblemSolve/743.cpp)|Medium|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[c++](./ProblemSolve/752.cpp)|Medium|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[c++](./ProblemSolve/762.cpp)|Easy|
@@ -280,6 +280,7 @@ LeetCode
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[c++](./ProblemSolve/790.cpp), [c#](./ProblemSolve/790.cs)|Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[c++](./ProblemSolve/796.cpp)|Easy|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[c++](./ProblemSolve/797.cpp), [c#](./ProblemSolve/797.cs)|Medium|
+|799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[c++](./ProblemSolve/799.cpp), [c#](./ProblemSolve/799.cs)|Medium|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[c++](./ProblemSolve/807.cpp)|Medium|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[c++](./ProblemSolve/821.cpp)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
