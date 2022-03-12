@@ -104,6 +104,7 @@ LeetCode
 |134|[Gas Station](https://leetcode.com/problems/gas-station)|[c++](./ProblemSolve/134.cpp), [c#](./ProblemSolve/134.cs)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[c++](./ProblemSolve/136.cpp), [c#](./ProblemSolve/136.cs)|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[c++](./ProblemSolve/137.cpp), [c#](./ProblemSolve/137.cs)|Medium|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[c++](./ProblemSolve/138.cpp), [c#](./ProblemSolve/138.cs)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[c++](./ProblemSolve/141.cpp), [c#](./ProblemSolve/141.cs)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[c++](./ProblemSolve/142.cpp), [c#](./ProblemSolve/142.cs)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[c++](./ProblemSolve/143.cpp), [c#](./ProblemSolve/143.cs)|Medium|
