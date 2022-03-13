@@ -24,7 +24,7 @@ LeetCode
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[c++](./ProblemSolve/17.cpp), [c#](./ProblemSolve/17.cs)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[c++](./ProblemSolve/18.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/remove-nth-node-from-end-of-list/)|[c++](./ProblemSolve/19.cpp)|Medium|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[c++](./ProblemSolve/20.cpp)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[c++](./ProblemSolve/20.cpp), [c#](./ProblemSolve/20.cs)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[c++](./ProblemSolve/21.cpp), [c#](./ProblemSolve/21.cs)|Easy|
 |22|[Generate Parenthesis](https://leetcode.com/problems/generate-parenthesis/)|[c++](./ProblemSolve/22.cpp)|Medium|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[c++](./ProblemSolve/23.cpp), [c#](./ProblemSolve/23.cs)|Hard|
