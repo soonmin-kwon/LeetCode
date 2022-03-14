@@ -58,6 +58,7 @@ LeetCode
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[c++](./ProblemSolve/67.cpp), [c#](./ProblemSolve/67.cs)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[c++](./ProblemSolve/69.cpp)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[c++](./ProblemSolve/70.cpp)|Easy|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[c++](./ProblemSolve/71.cpp), [c#](./ProblemSolve/71.cs)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[c++](./ProblemSolve/73.cpp)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[c++](./ProblemSolve/74.cpp)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[c++](./ProblemSolve/75.cpp)|Medium|
