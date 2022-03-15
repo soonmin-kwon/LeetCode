@@ -36,4 +36,48 @@ public class Solution {
         
         return ans.ToString();
     }
+    
+    public string MinRemoveToMakeValid(string s) {
+        StringBuilder ans = new StringBuilder();
+        int bracketCount = 0;
+        char[] input = s.ToCharArray();
+        
+        for(int i=0; i<input.Length; ++i){
+            if(input[i] == '('){
+                bracketCount++;
+            }
+            else if(input[i] == ')'){
+                if(bracketCount == 0){
+                    input[i] = 'D';
+                }
+                else{
+                    bracketCount--;
+                }
+            }
+        }
+        
+        bracketCount = 0;
+        
+        for(int i=input.Length-1; i>=0; --i){
+            if(input[i] == ')'){
+                bracketCount++;
+            }
+            else if(input[i] == '('){
+                if(bracketCount == 0){
+                    input[i] = 'D';
+                }
+                else{
+                    bracketCount--;
+                }
+            }
+        }
+        
+        foreach(char ch in input){
+            if(ch != 'D'){
+                ans.Append(ch);
+            }
+        }
+        
+        return ans.ToString();
+    }
 }

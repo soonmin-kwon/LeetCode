@@ -33,4 +33,48 @@ public:
         
         return s;
     }
+    
+    string minRemoveToMakeValid(string s) {
+        int len = s.size();
+        int bracketCount = 0;
+        
+        for(int i=0; i<len; ++i){
+            if(s[i] == '('){
+                bracketCount++;
+            }
+            else if(s[i] == ')'){
+                if(bracketCount == 0){
+                    s[i] = 'D';
+                }
+                else{
+                    bracketCount--;
+                }
+            }
+        }
+        
+        bracketCount = 0;
+        
+        for(int i=len-1; i>=0; --i){
+            if(s[i] == ')'){
+                bracketCount++;
+            }
+            else if(s[i] == '('){
+                if(bracketCount == 0){
+                    s[i] = 'D';
+                }
+                else{
+                    bracketCount--;
+                }
+            }
+        }
+        
+        string ans = "";
+        
+        for(char ch : s){
+            if(ch != 'D')
+                ans += ch;
+        }
+        
+        return ans;
+    }
 };
