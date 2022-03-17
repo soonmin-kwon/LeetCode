@@ -293,6 +293,7 @@ LeetCode
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[c++](./ProblemSolve/844.cpp)|Easy|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[c++](./ProblemSolve/848.cpp)|Medium|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[c++](./ProblemSolve/849.cpp), [c#](./ProblemSolve/849.cs)|Medium|
+|856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[c++](./ProblemSolve/856.cpp), [c#](./ProblemSolve/856.cs)|Medium|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[c++](./ProblemSolve/869.cpp)|Medium|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[c++](./ProblemSolve/874.cpp)|Medium|
 |875|[KoKo Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[c++](./ProblemSolve/875.cpp), [c#](./ProblemSolve/875.cs)|Medium|
