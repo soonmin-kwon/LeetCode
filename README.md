@@ -278,6 +278,7 @@ LeetCode
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[c++](./ProblemSolve/743.cpp)|Medium|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[c++](./ProblemSolve/752.cpp)|Medium|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[c++](./ProblemSolve/762.cpp)|Easy|
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[c++](./ProblemSolve/763.cpp), [c#](./ProblemSolve/763.cs)|Medium|
 |764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)|[c++](./ProblemSolve/764.cpp)|Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[c++](./ProblemSolve/771.cpp)|Easy|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[c++](./ProblemSolve/779.cpp)|Medium|
