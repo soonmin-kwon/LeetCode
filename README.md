@@ -323,6 +323,7 @@ LeetCode
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[c++](./ProblemSolve/978.cpp)|Medium|
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[c++](./ProblemSolve/980.cpp)|Hard|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[c++](./ProblemSolve/986.cpp), [c#](./ProblemSolve/986.cs)|Medium|
+|991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[c++](./ProblemSolve/991.cpp), [c#](./ProblemSolve/991.cs)|Medium|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[c++](./ProblemSolve/993.cpp)|Easy|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[c++](./ProblemSolve/994.cpp)|Medium|
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[c++](./ProblemSolve/997.cpp), [c#](./ProblemSolve/997.cs)|Easy|
