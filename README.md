@@ -301,7 +301,7 @@ LeetCode
 |875|[KoKo Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[c++](./ProblemSolve/875.cpp), [c#](./ProblemSolve/875.cs)|Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[c++](./ProblemSolve/876.cpp), [c#](./ProblemSolve/876.cs)|Easy|
 |878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)|[c++](./ProblemSolve/878.cpp), [c#](./ProblemSolve/878.cs)|Hard|
-|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[c++](./ProblemSolve/881.cpp)|Medium|
+|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[c++](./ProblemSolve/881.cpp), [c#](./ProblemSolve/881.cs)|Medium|
 |895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[c++](./ProblemSolve/895.cpp), [c#](./ProblemSolve/895.c#)|Hard|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[c++](./ProblemSolve/896.cpp)|Easy|
 |902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[c++](./ProblemSolve/902.cpp), [c#](./ProblemSolve/902.cs)|Hard|
