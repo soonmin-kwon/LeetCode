@@ -336,6 +336,7 @@ LeetCode
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[c++](./ProblemSolve/1018.cpp)|Easy|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[c++](./ProblemSolve/1022.cpp), [c#](./ProblemSolve/1022.cs)|Easy|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[c++](./ProblemSolve/1026.cpp), [c#](./ProblemSolve/1026.cs)|Medium|
+|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[c++](./ProblemSolve/1029.cpp), [c#](./ProblemSolve/1029.cs)|Medium|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[c++](./ProblemSolve/1038.cpp)|Medium|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[c++](./ProblemSolve/1041.cpp), [c#](./ProblemSolve/1041.cs)|Medium|
 |1047|[Remove All Dpulicates in String](https://leetcode.com/problems/remove-all-duplicates-in-string/)|[c++](./ProblemSolve/1047.cpp)|Easy|
