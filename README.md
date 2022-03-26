@@ -268,7 +268,7 @@ LeetCode
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[c++](./ProblemSolve/695.cpp)|Medium|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[c++](./ProblemSolve/696.cpp)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[c++](./ProblemSolve/701.cpp), [c#](./ProblemSolve/701.cs)|Medium|
-|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp)|Easy|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp), [c#](./ProblemSolve/704.cs)|Easy|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[c++](./ProblemSolve/713.cpp)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[c++](./ProblemSolve/724.cpp)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[c++](./ProblemSolve/728.cpp)|Easy|
