@@ -367,6 +367,7 @@ LeetCode
 |1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[c++](./ProblemSolve/1319.cpp)|Medium|
 |1324|[Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)|[c++](./ProblemSolve/1324.cpp)|Medium|
 |1328|[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[c++](./ProblemSolve/1328.cpp)|Medium|
+|1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[c++](./ProblemSolve/1337.cpp), [c#](./ProblemSolve/1337.cs)|Easy|
 |1338|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[c++](./ProblemSolve/1338.cpp)|Medium|
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[c++](./ProblemSolve/1339.cpp)|Medium|
 |1344|[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|[c++](./ProblemSolve/1344.cpp), [c#](./ProblemSolve/1344.cs)|Medium|
