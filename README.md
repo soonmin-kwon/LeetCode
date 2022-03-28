@@ -67,6 +67,7 @@ LeetCode
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[c++](./ProblemSolve/78.cpp), [c#](./ProblemSolve/78.cs)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[c++](./ProblemSolve/79.cpp)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[c++](./ProblemSolve/80.cpp), [c#](./ProblemSolve/80.cs)|Medium|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[c++](./ProblemSolve/81.cpp), [c#](./ProblemSolve/81.cs)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[c++](./ProblemSolve/82.cpp), [c#](./ProblemSolve/82.cs)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[c++](./ProblemSolve/83.cpp)|Easy|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[c++](./ProblemSolve/84.cpp), [c#](./ProblemSolve/84.cs)|Hard|
