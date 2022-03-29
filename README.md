@@ -168,7 +168,7 @@ LeetCode
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[c++](./ProblemSolve/278.cpp)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[c++](./ProblemSolve/279.cpp)|Medium|
 |283|[Moves Zeroes](https://leetcode.com/problems/moves-zeroes/)|[c++](./ProblemSolve/283.cpp)|Easy|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[c++](./ProblemSolve/287.cpp)|Medium|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[c++](./ProblemSolve/287.cpp), [c#](./ProblemSolve/287.cs)|Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[c++](./ProblemSolve/289.cpp)|Medium|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[c++](./ProblemSolve/290.cpp), [c++](./ProblemSolve/290.cs)|Easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[c++](./ProblemSolve/300.cpp)|Medium|
