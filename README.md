@@ -406,6 +406,7 @@ LeetCode
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[c++](./ProblemSolve/1822.cpp)|Easy|
 |1837|[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[c++](./ProblemSolve/1837.cpp)|Easy|
 |1859|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[c++](./ProblemSolve/1859.cpp)|Easy|
+|1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[c++](./ProblemSolve/1863.cpp), [c#](./ProblemSolve/1863.cs)|Easy|
 |1905|[Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)|[c++](./ProblemSolve/1905.cpp)|Medium|
 |1985|[Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)|[c++](./ProblemSolve/1985.cpp)|Medium|
 |1971|[Find if Path Exits in Graph](https://leetcode.com/problems/find-if-path-exits-in-graph/)|[c++](./ProblemSolve/1971.cpp)|Easy|
