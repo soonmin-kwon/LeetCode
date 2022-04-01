@@ -184,7 +184,7 @@ LeetCode
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[c++](./ProblemSolve/334.cpp)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[c++](./ProblemSolve/337.cpp), [c#](./ProblemSolve/337.cs)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[c++](./ProblemSolve/338.cpp), [c#](./ProblemSolve/338.cs)|Easy|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[c++](./ProblemSolve/344.cpp)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[c++](./ProblemSolve/344.cpp), [c#](./ProblemSolve/344.cs)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[c++](./ProblemSolve/347.cpp)|Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[c++](./ProblemSolve/350.cpp)|Easy|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[c++](./ProblemSolve/368.cpp), [c#](./ProblemSolve/368.cs)|Medium|
