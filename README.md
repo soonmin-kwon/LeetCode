@@ -263,6 +263,7 @@ LeetCode
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[c++](./ProblemSolve/668.cpp), [c#](./ProblemSolve/668.cs)|Hard|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[c++](./ProblemSolve/670.cpp)|Medium|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[c++](./ProblemSolve/673.cpp)|Medium|
+|680|[Valid Palindrome II](https://leetcode.com/problems/redundant-connection/)|[c++](./ProblemSolve/680.cpp), [c#](./ProblemSolve/680.cs)|Easy|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[c#](./ProblemSolve/684.cs)|Medium|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[c++](./ProblemSolve/692.cpp)|Medium|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[c++](./ProblemSolve/693.cpp)|Easy|
