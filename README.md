@@ -32,6 +32,7 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sroted-array/)|[c++](./ProblemSolve/26.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[c++](./ProblemSolve/27.cpp)|Easy|
 |28|[Implment strStr()](https://leetcode.com/problems/implement-strstr/)|[c++](./ProblemSolve/28.cpp)|Easy|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[c++](./ProblemSolve/31.cpp), [c#](./ProblemSolve/31.cs)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[c++](./ProblemSolve/33.cpp)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[c++](./ProblemSolve/34.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[c++](./ProblemSolve/35.cpp), [c#](./ProblemSolve/35.cs)|Easy|
