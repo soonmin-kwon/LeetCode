@@ -312,6 +312,7 @@ LeetCode
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[c++](./ProblemSolve/917.cpp)|Easy|
 |921|[Minimum Add to Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[c++](./ProblemSolve/921.cpp)|Medium|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[c++](./ProblemSolve/922.cpp)|Easy|
+|923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[c++](./ProblemSolve/923.cpp), [c#](./ProblemSolve/923.cs)|Medium|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[c++](./ProblemSolve/931.cpp)|Medium|
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[c++](./ProblemSolve/935.cpp)|Medium|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[c++](./ProblemSolve/938.cpp), [c#](./ProblemSolve/938.cs)|Easy|
