@@ -343,6 +343,7 @@ LeetCode
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[c++](./ProblemSolve/1029.cpp), [c#](./ProblemSolve/1029.cs)|Medium|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[c++](./ProblemSolve/1038.cpp)|Medium|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[c++](./ProblemSolve/1041.cpp), [c#](./ProblemSolve/1041.cs)|Medium|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[c++](./ProblemSolve/1046.cpp), [c#](./ProblemSolve/1046.cs)|Easy|
 |1047|[Remove All Dpulicates in String](https://leetcode.com/problems/remove-all-duplicates-in-string/)|[c++](./ProblemSolve/1047.cpp)|Easy|
 |1094|[Car Pooling](https://leetcode.com/problems/car-pooling/)|[c++](./ProblemSolve/1094.cpp), [c#](./ProblemSolve/1094.cs)|Medium|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[c++](./ProblemSolve/1108.cpp)|Easy|
