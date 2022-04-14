@@ -271,6 +271,7 @@ LeetCode
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[c++](./ProblemSolve/693.cpp)|Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[c++](./ProblemSolve/695.cpp)|Medium|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[c++](./ProblemSolve/696.cpp)|Easy|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[c++](./ProblemSolve/700.cpp), [c#](./ProblemSolve/700.cs)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[c++](./ProblemSolve/701.cpp), [c#](./ProblemSolve/701.cs)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp), [c#](./ProblemSolve/704.cs)|Easy|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[c++](./ProblemSolve/713.cpp)|Medium|
