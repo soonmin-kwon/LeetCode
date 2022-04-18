@@ -52,7 +52,7 @@ public:
         inorder(ans, root->right);
     }
     
-    int kthSmallest(TreeNode* root, int k) {
+    int kthSmallest2(TreeNode* root, int k) {
         vector<int> ans;
         
         //inorder 순서로 벡터를 만든다
@@ -60,5 +60,30 @@ public:
         
         //k번째 숫자를 찾는다
         return ans[k - 1];
+    }
+
+    void traverse(TreeNode* root, int& cur, int& nodeVal, int& k){
+        if(root == NULL){
+            return;
+        }
+        
+        traverse(root->left, cur, nodeVal, k);
+        cur++;
+        if(cur == k){
+            nodeVal = root -> val;
+            return;
+        }
+        
+        traverse(root->right, cur, nodeVal, k);
+        
+        return;
+    }
+    
+    int kthSmallest(TreeNode* root, int k) {
+        int ans = -1;
+        int cur = 0;
+        
+        traverse(root, cur, ans, k);
+        return ans;
     }
 };
