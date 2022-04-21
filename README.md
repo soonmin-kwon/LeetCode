@@ -127,6 +127,7 @@ LeetCode
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[c++](./ProblemSolve/169.cpp), [c#](./ProblemSolve/169.cs)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[c++](./ProblemSolve/171.cpp), [c#](./ProblemSolve/171.cs)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[c++](./ProblemSolve/172.cpp)|Easy|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[c++](./ProblemSolve/173.cpp), [c#](./ProblemSolve/173.cs)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[c++](./ProblemSolve/179.cpp)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./ProblemSolve/189.cpp), [c#](./ProblemSolve/189.cs)|Medium|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[c++](./ProblemSolve/190.cpp)|Easy|
@@ -275,6 +276,7 @@ LeetCode
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[c++](./ProblemSolve/700.cpp), [c#](./ProblemSolve/700.cs)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[c++](./ProblemSolve/701.cpp), [c#](./ProblemSolve/701.cs)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./ProblemSolve/704.cpp), [c#](./ProblemSolve/704.cs)|Easy|
+|705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[c++](./ProblemSolve/705.cpp), [c#](./ProblemSolve/705.cs)|Easy|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[c++](./ProblemSolve/713.cpp)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[c++](./ProblemSolve/724.cpp)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[c++](./ProblemSolve/728.cpp)|Easy|
