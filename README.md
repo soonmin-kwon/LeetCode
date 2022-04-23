@@ -236,6 +236,7 @@ LeetCode
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[c++](./ProblemSolve/525.cpp), [c#](./ProblemSolve/525.cs)|Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[c++](./ProblemSolve/530.cpp)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[c++](./ProblemSolve/532.cpp), [c#](./ProblemSolve/532.cs)|Medium|
+|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[c++](./ProblemSolve/535.cpp), [c#](./ProblemSolve/535.cs)|Medium|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[c++](./ProblemSolve/537.cpp)|Medium|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[c++](./ProblemSolve/538.cpp), [c#](./ProblemSolve/538.cs)|Medium|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[c++](./ProblemSolve/539.cpp)|Medium|
