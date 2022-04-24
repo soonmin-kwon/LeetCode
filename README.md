@@ -388,6 +388,7 @@ LeetCode
 |1345|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[c++](./ProblemSolve/1345.cpp), [c#](./ProblemSolve/1345.cs)|Medium|
 |1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options//)|[c++](./ProblemSolve/1359.cpp), [c#](./ProblemSolve/1359.cs)|Hard|
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[c++](./ProblemSolve/1367.cpp)|Medium|
+|1396|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[c++](./ProblemSolve/1396.cpp), [c#](./ProblemSolve/1396.cs)|Medium|
 |1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step/)|[c++](./ProblemSolve/1413.cpp), [c#](./ProblemSolve/1413.cs)|Easy|
 |1419|[Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)|[c++](./ProblemSolve/1419.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./ProblemSolve/1431.cpp)|Easy|
