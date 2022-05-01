@@ -303,7 +303,7 @@ LeetCode
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[c++](./ProblemSolve/827.cpp)|Hard|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[c++](./ProblemSolve/830.cpp)|Easy|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[c++](./ProblemSolve/841.cpp)|Medium|
-|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[c++](./ProblemSolve/844.cpp)|Easy|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[c++](./ProblemSolve/844.cpp), [c#](./ProblemSolve/844.cs)|Easy|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[c++](./ProblemSolve/848.cpp)|Medium|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[c++](./ProblemSolve/849.cpp), [c#](./ProblemSolve/849.cs)|Medium|
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[c++](./ProblemSolve/856.cpp), [c#](./ProblemSolve/856.cs)|Medium|
