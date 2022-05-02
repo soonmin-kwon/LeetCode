@@ -317,7 +317,7 @@ LeetCode
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[c++](./ProblemSolve/896.cpp)|Easy|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[c++](./ProblemSolve/897.cpp), [c#](./ProblemSolve/897.cs)|Easy|
 |902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[c++](./ProblemSolve/902.cpp), [c#](./ProblemSolve/902.cs)|Hard|
-|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[c++](./ProblemSolve/905.cpp)|Easy|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[c++](./ProblemSolve/905.cpp), [c#](./ProblemSolve/905.cs)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[c++](./ProblemSolve/917.cpp)|Easy|
 |921|[Minimum Add to Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[c++](./ProblemSolve/921.cpp)|Medium|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[c++](./ProblemSolve/922.cpp)|Easy|
