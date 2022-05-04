@@ -409,6 +409,7 @@ LeetCode
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[c++](./ProblemSolve/1662.cpp)|Easy|
 |1663|[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|[c++](./ProblemSolve/1663.cpp), [c#](./ProblemSolve/1663.cs)|Medium|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[c++](./ProblemSolve/1672.cpp), [c#](./ProblemSolve/1672.cs)|Easy|
+|1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[c++](./ProblemSolve/1679.cpp), [c#](./ProblemSolve/1679.cs)|Medium|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[c++](./ProblemSolve/1684.cpp)|Easy|
 |1685|[Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differneces-in-a-sorted-array/)|[c++](./ProblemSolve/1685.cpp)|Medium|
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[c++](./ProblemSolve/1690.cpp)|Medium|
