@@ -150,7 +150,7 @@ LeetCode
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[c++](./ProblemSolve/219.cpp)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[c++](./ProblemSolve/221.cpp), [c#](./ProblemSolve/221.cs)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[c++](./ProblemSolve/222.cpp)|Medium|
-|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[c++](./ProblemSolve/225.cpp)|Easy|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[c++](./ProblemSolve/225.cpp), [c#](./ProblemSolve/225.cs)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[c++](./ProblemSolve/226.cpp)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[c++](./ProblemSolve/227.cpp), [c#](./ProblemSolve/227.cs)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[c++](./ProblemSolve/228.cpp), [c#](./ProblemSolve/228.cs)|Easy|
