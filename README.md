@@ -43,6 +43,7 @@ LeetCode
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[c++](./ProblemSolve/42.cpp)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[c++](./ProblemSolve/45.cpp)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[c++](./ProblemSolve/46.cpp)|Medium|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[c++](./ProblemSolve/47.cpp), [c#](./ProblemSolve/47.cs)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[c++](./ProblemSolve/48.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[c++](./ProblemSolve/49.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[c++](./ProblemSolve/50.cpp)|Medium|
