@@ -95,7 +95,7 @@ LeetCode
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[c++](./ProblemSolve/113.cpp)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[c++](./ProblemSolve/114.cpp)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[c++](./ProblemSolve/116.cpp), [c#](./ProblemSolve/116.cs)|Medium|
-|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[c++](./ProblemSolve/117.cpp)|Medium|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[c++](./ProblemSolve/117.cpp), [c#](./ProblemSolve/117.cs)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](./ProblemSolve/118.cpp)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[c++](./ProblemSolve/119.cpp)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[c++](./ProblemSolve/121.cpp), [c#](./ProblemSolve/121.cs)|Easy|
