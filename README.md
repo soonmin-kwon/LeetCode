@@ -288,7 +288,7 @@ LeetCode
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[c++](./ProblemSolve/733.cpp)|Easy|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[c++](./ProblemSolve/739.cpp), [c#](./ProblemSolve/739.cs)|Medium|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[c++](./ProblemSolve/740.cpp), [c#](./ProblemSolve/740.cs)|Medium|
-|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[c++](./ProblemSolve/743.cpp)|Medium|
+|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[c++](./ProblemSolve/743.cpp), [c#](./ProblemSolve/743.cs)|Medium|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[c++](./ProblemSolve/752.cpp)|Medium|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[c++](./ProblemSolve/762.cpp)|Easy|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[c++](./ProblemSolve/763.cpp), [c#](./ProblemSolve/763.cs)|Medium|
