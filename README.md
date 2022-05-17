@@ -392,6 +392,7 @@ LeetCode
 |1345|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[c++](./ProblemSolve/1345.cpp), [c#](./ProblemSolve/1345.cs)|Medium|
 |1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options//)|[c++](./ProblemSolve/1359.cpp), [c#](./ProblemSolve/1359.cs)|Hard|
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[c++](./ProblemSolve/1367.cpp)|Medium|
+|1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[c++](./ProblemSolve/1379.cpp), [c++](./ProblemSolve/1379.cs)|Medium|
 |1396|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[c++](./ProblemSolve/1396.cpp), [c#](./ProblemSolve/1396.cs)|Medium|
 |1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step/)|[c++](./ProblemSolve/1413.cpp), [c#](./ProblemSolve/1413.cs)|Easy|
 |1419|[Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)|[c++](./ProblemSolve/1419.cpp)|Medium|
