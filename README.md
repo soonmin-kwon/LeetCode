@@ -183,7 +183,7 @@ LeetCode
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[c++](./ProblemSolve/322.cpp)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[c++](./ProblemSolve/326.cpp)|Easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[c++](./ProblemSolve/328.cpp), [c#](./ProblemSolve/328.cs)|Medium|
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[c++](./ProblemSolve/329.cpp)|Hard|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[c++](./ProblemSolve/329.cpp), [c#](./ProblemSolve/329.cs|Hard|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[c++](./ProblemSolve/331.cpp)|Medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[c++](./ProblemSolve/334.cpp)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[c++](./ProblemSolve/337.cpp), [c#](./ProblemSolve/337.cs)|Medium|
