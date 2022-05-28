@@ -169,7 +169,7 @@ LeetCode
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[c++](./ProblemSolve/260.cpp), [c#](./ProblemSolve/260.cs)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[c++](./ProblemSolve/263.cpp)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[c++](./ProblemSolve/264.cpp)|Medium|
-|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[c++](./ProblemSolve/268.cpp)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[c++](./ProblemSolve/268.cpp), [c#](./ProblemSolve/268.cs)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[c++](./ProblemSolve/278.cpp)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[c++](./ProblemSolve/279.cpp)|Medium|
 |283|[Moves Zeroes](https://leetcode.com/problems/moves-zeroes/)|[c++](./ProblemSolve/283.cpp)|Easy|
