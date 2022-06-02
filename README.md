@@ -311,6 +311,7 @@ LeetCode
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[c++](./ProblemSolve/848.cpp)|Medium|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[c++](./ProblemSolve/849.cpp), [c#](./ProblemSolve/849.cs)|Medium|
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[c++](./ProblemSolve/856.cpp), [c#](./ProblemSolve/856.cs)|Medium|
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[c++](./ProblemSolve/867.cpp), [c#](./ProblemSolve/867.cs)|Easy|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[c++](./ProblemSolve/869.cpp)|Medium|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[c++](./ProblemSolve/874.cpp)|Medium|
 |875|[KoKo Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[c++](./ProblemSolve/875.cpp), [c#](./ProblemSolve/875.cs)|Medium|
