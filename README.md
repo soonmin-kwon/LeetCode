@@ -422,7 +422,7 @@ LeetCode
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[c++](./ProblemSolve/1684.cpp)|Easy|
 |1685|[Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differneces-in-a-sorted-array/)|[c++](./ProblemSolve/1685.cpp)|Medium|
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[c++](./ProblemSolve/1690.cpp)|Medium|
-|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[c++](./ProblemSolve/1695.cpp)|Medium|
+|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[c++](./ProblemSolve/1695.cpp), [c#](./ProblemSolve/1695.cs)|Medium|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[c++](./ProblemSolve/1704.cpp)|Easy|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[c++](./ProblemSolve/1721.cpp), [c#](./ProblemSolve/1721.cs)|Medium|
 |1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)|[c++](./ProblemSolve/1759.cpp)|Medium|
