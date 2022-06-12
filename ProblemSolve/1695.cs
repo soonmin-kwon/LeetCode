@@ -2,16 +2,15 @@
  * Maximum Erasure Value *
  *************************/
 
-class Solution {
-public:
-    int maximumUniqueSubarray(vector<int>& nums) {
-        int curSum = 0;
+public class Solution {
+    public int MaximumUniqueSubarray(int[] nums) {
+        int[] hash = new int[10001];
+        int ans = 0;
         int left = 0;
         int right = 0;
-        int ans = 0;
-        vector<int> hash(10001, 0);
+        int curSum = 0;
         
-        while(right < nums.size()){
+        while(right < nums.Length){
             hash[nums[right]]++;
             curSum += nums[right];
             
@@ -21,10 +20,10 @@ public:
                 left++;
             }
             
-            ans = max(ans, curSum);
+            ans = Math.Max(ans, curSum);
             right++;
         }
         
         return ans;
     }
-};
+}
