@@ -419,6 +419,7 @@ LeetCode
 |1626|[Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)|[c++](./ProblemSolve/1626.cpp)|Medium|
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[c++](./ProblemSolve/1629.cpp)|Easy|
 |1641|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[c++](./ProblemSolve/1641.cpp), [c#](./ProblemSolve/1641.cs)|Medium|
+|1642|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|[c++](./ProblemSolve/1642.cpp), [c#](./ProblemSolve/1642.cs)|Medium|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[c++](./ProblemSolve/1662.cpp)|Easy|
 |1663|[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|[c++](./ProblemSolve/1663.cpp), [c#](./ProblemSolve/1663.cs)|Medium|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[c++](./ProblemSolve/1672.cpp), [c#](./ProblemSolve/1672.cs)|Easy|
